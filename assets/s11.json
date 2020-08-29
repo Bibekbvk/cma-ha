@@ -1,0 +1,413 @@
+[
+    {
+        "1": "The main sign/symptoms of inflammation is:?",
+        "2": "The factor which interfere the inflammation is:?",
+        "3": "Common organism for boil is:?",
+        "4": "Common site of carbuncle?",
+        "5": "Common causative organism for cellulitis is?",
+        "6": "The best treatment of cellulitis is:?",
+        "7": "Causative organism for abscess is?",
+        "8": "What is the most common cause of acute intestinal obstruction in children?",
+        "9": "The common cause of acute abdomen in our country is ?",
+        "10": "What may be the complication of hydrocele?",
+        "11": "Most common cancer among women worldwide is?",
+        "12": "Gas  gangrene is caused by?",
+        "13": "The multiplication of bacteria in blood stream is?",
+        "14": "Tetanus is caused by?",
+        "15": "Bleeding after 7-10 days of injury is?",
+        "16": "The tract lined by granulation tissue connecting two epithelial lining surfaces is:?",
+        "17": "The blind tract lined by granulation tissue connecting inferior to the surface is?",
+        "18": "The best management of fistula is?",
+        "19": "When a patient complains of not passing the stool, vomiting, abdominal distension & colicky abdominal pain, your possible diagnosis is:?",
+        "20": "Position of internal hemorrhoids?",
+        "21": "Most common cause of hemorrhoids:?",
+        "22": "The common type of Hernia in female is ?",
+        "23": "Most emergency hernia is?",
+        "24": "Choice of treatment of infant's hernia is:?",
+        "25": "The choice of treatment of Acute mastitis?",
+        "26": "The 1 step in the management of Acute retention of urine is?",
+        "27": " The most common cause of Acute retention of urine in elderly man is ?",
+        "28": "The best management of phimosis is?",
+        "29": "Paraphimosis common in?",
+        "30": "Transillumination test +ve in?",
+        "31": "The best investigation in case of head injury is?",
+        "32": "Blood collection under the dura mater is:?",
+        "33": "The best method for treatment of fracture is ?",
+        "34": "For the management of acute osteomyelitis:?",
+        "35": " Disadvantage of ketamin?",
+        "36": "Proper and cheaper way of disinfection can be done by?",
+        "37": "The best method of sterilization is:?",
+        "38": "Spores can be killed by?",
+        "39": "Dettol is a?",
+        "40": "Savlon contains?",
+        "41": "Stool are best disinfected by?",
+        "42": "The term blood pressure usually refers to the pressure of blood on ?",
+        "43": "Most effective skin antiseptic is?",
+        "44": "The amount of bleaching powder required to disinfect stool is?",
+        "45": "The most common presenting sign/symptoms in case of rupture of urethra is?",
+        "46": "Which condition/disease is diagnosed by three test tube test? ?",
+        "47": " 1 pint blood is equal to??",
+        "48": "Which is not case of acute abdomen??",
+        "49": "Disposable syringe are best sterilized?",
+        "50": "The father of surgery is ?"
+    },
+    {
+        "1": {
+            "a": "Hot ",
+            "b": "Pain ",
+            "c": "Loss of function",
+            "d": "All of above "
+        },
+        "2": {
+            "a": "Antibiotics ",
+            "b": "Bacteria ",
+            "c": "Blood supply ",
+            "d": "None "
+        },
+        "3": {
+            "a": "Streptococcus ",
+            "b": "Staphylococcus aureus ",
+            "c": "influenza ",
+            "d": "Virus"
+        },
+        "4": {
+            "a": "Hair",
+            "b": "Back of neck",
+            "c": "Leg",
+            "d": "All of above "
+        },
+        "5": {
+            "a": "Staphylococci ",
+            "b": "Streptococci ",
+            "c": "Pneumococci",
+            "d": "H. influenza"
+        },
+        "6": {
+            "a": "I&D",
+            "b": "Analgesic ",
+            "c": "Magnesium sulphate ",
+            "d": "Elevate the part sulphate dressing "
+        },
+        "7": {
+            "a": "Staphylococcus ",
+            "b": "Streptococcus ",
+            "c": "E. coli",
+            "d": "All of above"
+        },
+        "8": {
+            "a": "volvulus",
+            "b": "Carcinoma ",
+            "c": "Gall stone d ",
+            "d": " All of above "
+        },
+        "9": {
+            "a": "Acute appendicitis",
+            "b": "acute cholecystitis",
+            "c": "Acute pancreatitis",
+            "d": "All of above "
+        },
+        "10": {
+            "a": "GI bleeding",
+            "b": "Vomiting ",
+            "c": "Haematocele ",
+            "d": "Phimosis"
+        },
+        "11": {
+            "a": " Breast cancer",
+            "b": "cervical cancer",
+            "c": "Oral cancer",
+            "d": "Lung cancer "
+        },
+        "12": {
+            "a": "E. coli ",
+            "b": "Staphylococci ",
+            "c": "Clostridium welchii",
+            "d": "Clostridium tetani "
+        },
+        "13": {
+            "a": "septicemia ",
+            "b": "Bacteremia",
+            "c": "Cellulitis ",
+            "d": "Abscess "
+        },
+        "14": {
+            "a": "Gram-ve bacteria",
+            "b": "Gram -ve anaerobic bacteria",
+            "c": "Gram +ve anaerobic bacteria",
+            "d": "Gram +vc aerobic bacteria "
+        },
+        "15": {
+            "a": "primary hemorrhage",
+            "b": "Reactionary hemorrhage",
+            "c": "Secondary hemorrhage",
+            "d": "both a &b"
+        },
+        "16": {
+            "a": "Fistula",
+            "b": "sinus ",
+            "c": "ulcer",
+            "d": "both a &b "
+        },
+        "17": {
+            "a": "sinus",
+            "b": "Fistula ",
+            "c": "cavity",
+            "d": "Ulcer"
+        },
+        "18": {
+            "a": "Antibiotic ",
+            "b": "Excision",
+            "c": "Observation ",
+            "d": "All of above"
+        },
+        "19": {
+            "a": " Acute appendicitis",
+            "b": "acute pancreatitis",
+            "c": "Acute intestinal obstruction",
+            "d": "All of above"
+        },
+        "20": {
+            "a": " 3, 7, 11 O'clock",
+            "b": "8, 12, 3 o'clock",
+            "c": "10, 1, 4 o'clock",
+            "d": "3, 7, 12 o'clock"
+        },
+        "21": {
+            "a": "Constipation ",
+            "b": "anal fistula",
+            "c": "Anal fissure",
+            "d": "All of above"
+        },
+        "22": {
+            "a": "Inguinal hernia",
+            "b": "femoral hernia",
+            "c": "Incisional hernia",
+            "d": " Umbilical hernia "
+        },
+        "23": {
+            "a": "Incisional ",
+            "b": "Strangulated ",
+            "c": "Ritcher's hernia",
+            "d": "Inguinal"
+        },
+        "24": {
+            "a": "Truss ",
+            "b": "Herniorrhaphy ",
+            "c": "Hernioplasty",
+            "d": "Herniotomy"
+        },
+        "25": {
+            "a": "Amoxicillin ",
+            "b": "Ampicillin",
+            "c": "Cloxacillin ",
+            "d": "Ciprofloxacin "
+        },
+        "26": {
+            "a": "Hot compression",
+            "b": "Surgery ",
+            "c": "Antibiotic",
+            "d": "Catheterization"
+        },
+        "27": {
+            "a": "phimosis ",
+            "b": "paraphimosis ",
+            "c": "DM ",
+            "d": "Benign prostatic hypertrophy"
+        },
+        "28": {
+            "a": "Antibiotic ",
+            "b": "Analgesic",
+            "c": "Circumcision ",
+            "d": "observation "
+        },
+        "29": {
+            "a": "Young children",
+            "b": "Old male",
+            "c": "old female",
+            "d": "Foetus"
+        },
+        "30": {
+            "a": "Hernia ",
+            "b": "Phimosis ",
+            "c": "Hydrocele",
+            "d": "carcinoma of penis"
+        },
+        "31": {
+            "a": "CT scan",
+            "b": "X-ray skull",
+            "c": "EEG",
+            "d": " L.P."
+        },
+        "32": {
+            "a": "Sub-dural hematoma ",
+            "b": "Epidural haematoma",
+            "c": "Contusion",
+            "d": "None "
+        },
+        "33": {
+            "a": "Antibiotic ",
+            "b": " IV line open with NS",
+            "c": "Analgesic",
+            "d": "Immobilization of part"
+        },
+        "34": {
+            "a": " Immobilize the part",
+            "b": "Antibiotic ",
+            "c": "Bed rest",
+            "d": " All of above"
+        },
+        "35": {
+            "a": "HTN ",
+            "b": "Hallucination ",
+            "c": "Low BP",
+            "d": "Decreased muscle tone"
+        },
+        "36": {
+            "a": "Autoclave ",
+            "b": " Soap water washing",
+            "c": "Boiling",
+            "d": "All of above "
+        },
+        "37": {
+            "a": "soap washing",
+            "b": "Autoclave ",
+            "c": "chemical",
+            "d": "all of above"
+        },
+        "38": {
+            "a": "70% alcohol",
+            "b": " Bleaching powder",
+            "c": "Formaldehyde",
+            "d": "Autoclaving "
+        },
+        "39": {
+            "a": "Chloroxylenol ",
+            "b": "Cetrimide",
+            "c": "Chlorhexidine ",
+            "d": "both a & b "
+        },
+        "40": {
+            "a": "Dettol & hibitane",
+            "b": " Dettol & Cetavlon",
+            "c": "Cetrimidine & chlorhexidine",
+            "d": "Cresol & hibitane"
+        },
+        "41": {
+            "a": "phenol ",
+            "b": " bleaching powder",
+            "c": " Formaldehyde",
+            "d": " cetrimide"
+        },
+        "42": {
+            "a": "arterial wall ",
+            "b": "Arterial vessel",
+            "c": " venous wall",
+            "d": "circulatory vessel"
+        },
+        "43": {
+            "a": "Alcohol ",
+            "b": "Dettol ",
+            "c": "Hexachlorophene ",
+            "d": "Alcohol solution of Chlorhexidine! "
+        },
+        "44": {
+            "a": "50 gm./litre ",
+            "b": "6.25 gm /litre",
+            "c": "100 gm./litre",
+            "d": "75 gm./litre"
+        },
+        "45": {
+            "a": "pain ",
+            "b": "Haematuria ",
+            "c": " Acute retention of urine",
+            "d": "Dysuria "
+        },
+        "46": {
+            "a": "Haematuria ",
+            "b": "Hydrocele ",
+            "c": "UTI",
+            "d": "Glomerulonephritis"
+        },
+        "47": {
+            "a": "480 ml",
+            "b": "450 ml",
+            "c": "350 ml",
+            "d": "600 ml"
+        },
+        "48": {
+            "a": "Acute appendicitis",
+            "b": " acute peritonitis",
+            "c": "Acute respiratory infection",
+            "d": "Salpingitis "
+        },
+        "49": {
+            "a": "Autoclaving ",
+            "b": "Ethylene oxide",
+            "c": "Boiling",
+            "d": "washing with soap"
+        },
+        "50": {
+            "a": "Susruta",
+            "b": "Ambrose pare",
+            "c": "Hippocrates",
+            "d": "Robert Hook"
+        }
+       
+
+
+    },
+    {
+        "1": "All of above ",
+        "2": "Blood supply ",
+        "3": "Staphylococcus aureus ",
+        "4": "Back of neck",
+        "5": "Streptococci ",
+        "6": "Magnesium sulphate ",
+        "7": "All of above",
+        "8": "volvulus",
+        "9": "Acute appendicitis",
+        "10": "Haematocele ",
+        "11": " Breast cancer",
+        "12": "Clostridium welchii",
+        "13": "septicemia ",
+        "14": "Gram +ve anaerobic bacteria",
+        "15": "Secondary hemorrhage",
+        "16": "Fistula",
+        "17": "sinus",
+        "18": "Excision",
+        "19": "Acute intestinal obstruction",
+        "20": " 3, 7, 11 O'clock",
+        "21": "Constipation ",
+        "22": "Inguinal hernia",
+        "23": "Strangulated ",
+        "24": "Herniotomy",
+        "25": "Cloxacillin ",
+        "26": "Hot compression",
+        "27": "Benign prostatic hypertrophy",
+        "28": "Circumcision ",
+        "29": "Old male",
+        "30": "Hydrocele",
+        "31": "CT scan",
+        "32": "Sub-dural hematoma ",
+        "33": "Immobilization of part",
+        "34": " All of above",
+        "35": "Hallucination ",
+        "36": " Soap water washing",
+        "37": "Autoclave ",
+        "38": "Autoclaving ",
+        "39": "Chloroxylenol ",
+        "40": "Cetrimidine & chlorhexidine",
+        "41": " bleaching powder",
+        "42": "arterial wall ",
+        "43": "Alcohol solution of Chlorhexidine! ",
+        "44": "50 gm./litre ",
+        "45": "Haematuria ",
+        "46": "Haematuria ",
+        "47": "480 ml",
+        "48": "Acute respiratory infection",
+        "49": "Ethylene oxide",
+        "50": "Ambrose pare"
+       
+
+    }
+]

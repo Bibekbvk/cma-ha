@@ -1,0 +1,411 @@
+[
+    {
+        "1": "What is the length of female urethra??",
+        "2": "Which is the permanent FP method for male??",
+        "3": "Which is the following is not the good quality for male?",
+        "4": "What is the % of institutional deliveries among estimated number of live birth during 2067/68??",
+        "5": "When measles vaccine should be given to the baby??",
+        "6": "What is the normal birth weight of new born baby??",
+        "7": "Which of the following is not strategic obiective of school & nutrition program??",
+        "8": "Which of the following is not an objective of community based neonatal care program??",
+        "9": "At least how long zinc tablet should provide to under five children suffering from the diarrhea??",
+        "10": "What is the contraceptive prevalence Rate (CPR) among modern method as per the annual report 2067/68)??",
+        "11": "Which is not an objective of evaluation??",
+        "12": "Cold chain management refers?",
+        "13": "HMIS-27 used for keeping the record of?",
+        "14": "Which of the following institution does not consist of sanction post of staff Nurse? ?",
+        "15": "Who is many staffs are for giving health education at health post level??",
+        "16": "How many staffs are in sub-health post in western region??",
+        "17": "What are the number of bed in primary Health care centers PHCC)??",
+        "18": "first PHC/ORC were implemented in............ districts of Nepal?",
+        "19": " Informing the people, motivating the people and guided into action is the objective?",
+        "20": "Pasteurization of milk kills all the following except??",
+        "21": "Influenza is mostly spread by?",
+        "22": " The definitive host of Bancroftian filariasis is ?",
+        "23": "The type of influenza causing out break every year is?",
+        "24": "What are the common health problem of school children?",
+        "25": "What is range of incubation period of Kala-azar disease??",
+        "26": "DOTS is an effective treatment method for the patient of ?",
+        "27": "Which is an incubation period of Japanese Encephalitis?",
+        "28": "Elimination of Leprosy as a public health problem mean?",
+        "29": "The most common causes of anaemia in Nepal is?",
+        "30": "The division of two numbers times is always in denominator?",
+        "31": "Contact period for which water should not the well after adding bleaching powder?",
+        "32": "Which is the most common water disease??",
+        "33": "What is the dose of residual chlorine be kept in chemical disinfection water?",
+        "34": "All of the following vaccines are stor in cold part of refrigerator?",
+        "35": "Recommended site of administration of DPT in infants ?",
+        "36": "Which type of Anaemia is common in Nepal??",
+        "37": "The daily requirement of iodine for adult is?",
+        "38": "The protein energy malnutrition primarily due to ?",
+        "39": "What is not the risk factors for developing coronary artery disease??",
+        "40": " Citrate has been added to conventional ORS to?",
+        "41": "41.Most common cause of hypertension is?",
+        "42": "Which of the following is not preventive measure of Hookworm infestation??",
+        "43": "The first step in management of acute retention of urine is?",
+        "44": "How many layers in the skin??",
+        "45": "Adult requirement of sodium per day is ?",
+        "46": "Which is not the complication of wound??",
+        "47": "Which is not the principle of management of fracture?",
+        "48": " The commonest cause of hoarseness ?",
+        "49": "Which eyes disease is common among old people??",
+        "50": "Following are the elements of community mental health except?"
+    },
+    {
+        "1": {
+            "a": "5 cm",
+            "b": "6 cm",
+            "c": "4 cm",
+            "d": "7 cm"
+        },
+        "2": {
+            "a": "Vasectomy ",
+            "b": "Minilap ",
+            "c": "laparoscopy",
+            "d": "all of the above "
+        },
+        "3": {
+            "a": "Safe ",
+            "b": "no harm, if taken when remember",
+            "c": "culturally accepted",
+            "d": "low-cost"
+        },
+        "4": {
+            "a": "37%",
+            "b": "42% ",
+            "c": "45%",
+            "d": "47%"
+        },
+        "5": {
+            "a": "At birth time",
+            "b": "ten month",
+            "c": "in 9 month",
+            "d": "in 6 weeks"
+        },
+        "6": {
+            "a": "2.0-3kg",
+            "b": "2.5-3 kg",
+            "c": "3.0-3.5 kg",
+            "d": "3.5-4.0 kg"
+        },
+        "7": {
+            "a": "Improve use of school health &nutrition services by school children",
+            "b": "Improve the nutritional status of the family member of school children ",
+            "c": "Improve healthful school environment",
+            "d": "Improve health & nutrition Behavior & habit"
+        },
+        "8": {
+            "a": " Prevention and management of infection of neonates",
+            "b": "Prevention and management of hypothermia and low birth weight",
+            "c": "Management of birth asphyxia of neonates",
+            "d": " Management of immunization"
+        },
+        "9": {
+            "a": "3days",
+            "b": "5 days",
+            "c": "7 days",
+            "d": "10 days"
+        },
+        "10": {
+            "a": "41.7",
+            "b": "42.7",
+            "c": "43.7",
+            "d": "44.7 "
+        },
+        "11": {
+            "a": "Work efficiency, honesty and morally towards the program",
+            "b": "Budget expenditure in the program",
+            "c": "Level of program implementation",
+            "d": "Either helping or not helping decision makers to strengthen program intervention at future "
+        },
+        "12": {
+            "a": "To maintain the temperature from manufacture to consumption",
+            "b": "To maintain the temperature from central to regional store ",
+            "c": "To maintain the temperature from districts store to consumption",
+            "d": "To maintain the temperature from districts store to consumption"
+        },
+        "13": {
+            "a": "PHC/ORC services ",
+            "b": "FCHV services",
+            "c": "Tuberculosis services",
+            "d": "daily outpatient "
+        },
+        "14": {
+            "a": "Primary Health care centre",
+            "b": "districts Hospital",
+            "c": "Health post",
+            "d": "zonal hospital"
+        },
+        "15": {
+            "a": "A.H.W",
+            "b": "A.N.M",
+            "c": " Health Assistant",
+            "d": "all of the above"
+        },
+        "16": {
+            "a": "4",
+            "b": "10",
+            "c": "12",
+            "d": "3"
+        },
+        "17": {
+            "a": "1 emergency and 1 maternity bed ",
+            "b": "1 emergency and 2 maternity bed ",
+            "c": "2 emergency and 1 maternity bed ",
+            "d": "1 emergency and 2 maternity bed "
+        },
+        "18": {
+            "a": "5",
+            "b": "7 ",
+            "c": "10",
+            "d": "6"
+        },
+        "19": {
+            "a": "social medicine",
+            "b": "preventive medicine",
+            "c": "health education",
+            "d": "public health"
+        },
+        "20": {
+            "a": "anthrax",
+            "b": "M. tuberculosis ",
+            "c": "Streptococcus",
+            "d": "Brucella "
+        },
+        "21": {
+            "a": "coughing and sneezing",
+            "b": "kissing or drinking glasses",
+            "c": "use of towel",
+            "d": "all of the above"
+        },
+        "22": {
+            "a": "man",
+            "b": "mosquito ",
+            "c": "animals",
+            "d": "none of the above"
+        },
+        "23": {
+            "a": "A",
+            "b": "B",
+            "c": "C",
+            "d": "None"
+        },
+        "24": {
+            "a": "malnutrition ",
+            "b": "dental caries",
+            "c": "intestinal parasites",
+            "d": "infectious disease"
+        },
+        "25": {
+            "a": "7 to 28 days",
+            "b": "14 to 42days",
+            "c": "10 days to 2 years",
+            "d": "a century"
+        },
+        "26": {
+            "a": "Leprosy",
+            "b": "Tuberculosis ",
+            "c": "Cancer",
+            "d": "Asthma "
+        },
+        "27": {
+            "a": "3-7 days",
+            "b": "3-10 days",
+            "c": "5-10 days",
+            "d": "5-15 days"
+        },
+        "28": {
+            "a": "to reduce the prevalence of leprosy to below I case per 10,000 population",
+            "b": " to reduce the prevalence of leprosy to below 2 case per 10,000 population ",
+            "c": "reduce the prevalence of leprosy to below 3 case per 10,000 population",
+            "d": "to reduce the prevalence of leprosy to below 5 case per 10.000 population"
+        },
+        "29": {
+            "a": "Round worm",
+            "b": "Hook worm ",
+            "c": "Haemorrhage",
+            "d": "Malaria"
+        },
+        "30": {
+            "a": "proportion",
+            "b": "rate ",
+            "c": "ratio",
+            "d": "all of the above"
+        },
+        "31": {
+            "a": "5 minutes",
+            "b": "30 minutes",
+            "c": "15 minutes",
+            "d": "60 minutes"
+        },
+        "32": {
+            "a": "Amoebiasis",
+            "b": "viral hepatitis",
+            "c": "typhoid fever",
+            "d": "Filaria fever"
+        },
+        "33": {
+            "a": "0.5mg/liter",
+            "b": "1mg/liter",
+            "c": "1.5mg/liter",
+            "d": "2mg/liter"
+        },
+        "34": {
+            "a": "DPT",
+            "b": "Typhoid ",
+            "c": "Polio",
+            "d": "Tetanus toxoid"
+        },
+        "35": {
+            "a": "gluteal ",
+            "b": "deltoid ",
+            "c": "lateral aspect of thigh",
+            "d": "forearm "
+        },
+        "36": {
+            "a": "Megaloblastic ",
+            "b": "Hypochromic",
+            "c": "Haemolytic ",
+            "d": "Normocytic "
+        },
+        "37": {
+            "a": "5 ug/day",
+            "b": "50ug/day",
+            "c": "100 ug/day",
+            "d": "150 ug/day "
+        },
+        "38": {
+            "a": "lack of mother care",
+            "b": "inadequate intake of foods ",
+            "c": " pre-mature births",
+            "d": "all of the above"
+        },
+        "39": {
+            "a": "stress ",
+            "b": "drinking alcohol",
+            "c": "exercise ",
+            "d": "all of the above"
+        },
+        "40": {
+            "a": "improve chloride absorption",
+            "b": "correct acidosis",
+            "c": "improve glucose absorption",
+            "d": "stabilize ORS"
+        },
+        "41": {
+            "a": "adrenal hyperplasia",
+            "b": "essential ",
+            "c": "heart disease",
+            "d": "obesity"
+        },
+        "42": {
+            "a": "health education",
+            "b": " prevent soil contamination through construction of latrine",
+            "c": "prevent form sharing of food and bed of infected person",
+            "d": "early diagnosis and prompt treatment"
+        },
+        "43": {
+            "a": "hot compression ",
+            "b": " catheterization",
+            "c": "preseribe medicine",
+            "d": "consult to medical doctor"
+        },
+        "44": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "5"
+        },
+        "45": {
+            "a": "5 mg",
+            "b": "5 to 10mg",
+            "c": "10 to 15mg",
+            "d": "None"
+        },
+        "46": {
+            "a": "bleeding ",
+            "b": "deformity ",
+            "c": "pain",
+            "d": "shock "
+        },
+        "47": {
+            "a": "wash fractured parts",
+            "b": "detailed examination of body ",
+            "c": "maintenance of breathing of victim",
+            "d": "maintenance of airways of victim The"
+        },
+        "48": {
+            "a": "acute pharyngitis ",
+            "b": "acute laryngitis",
+            "c": "acute tonsillitis",
+            "d": "all of the above"
+        },
+        "49": {
+            "a": "trachoma",
+            "b": "poor vision",
+            "c": "glaucoma",
+            "d": "cataract"
+        },
+        "50": {
+            "a": " in patient service",
+            "b": "outpatient service",
+            "c": "emergency service",
+            "d": "reporting service"
+        }
+
+    },
+    {
+        "1": "4 cm",
+        "2": "Vasectomy ",
+        "3": "no harm, if taken when remember",
+        "4": "37%",
+        "5": "ten month",
+        "6": "2.5-3 kg",
+        "7": "Improve the nutritional status of the family member of school children ",
+        "8": " Management of immunization",
+        "9": "10 days",
+        "10": "43.7",
+        "11": "Either helping or not helping decision makers to strengthen program intervention at future ",
+        "12": "To maintain the temperature from manufacture to consumption",
+        "13": "FCHV services",
+        "14": "Health post",
+        "15": "all of the above",
+        "16": "4",
+        "17": "2 emergency and 1 maternity bed ",
+        "18": "5",
+        "19": "health education",
+        "20": "anthrax",
+        "21": "coughing and sneezing",
+        "22": "man",
+        "23": "A",
+        "24": "malnutrition ",
+        "25": "10 days to 2 years",
+        "26": "Tuberculosis ",
+        "27": "5-15 days",
+        "28": "to reduce the prevalence of leprosy to below I case per 10,000 population",
+        "29": "Hook worm ",
+        "30": "rate ",
+        "31": "60 minutes",
+        "32": "Amoebiasis",
+        "33": "0.5mg/liter",
+        "34": "Polio",
+        "35": "lateral aspect of thigh",
+        "36": "Hypochromic",
+        "37": "150 ug/day ",
+        "38": "inadequate intake of foods ",
+        "39": "exercise ",
+        "40": "stabilize ORS",
+        "41": "obesity",
+        "42": "prevent form sharing of food and bed of infected person",
+        "43": "hot compression ",
+        "44": "5",
+        "45": "None",
+        "46": "pain",
+        "47": "wash fractured parts",
+        "48": "acute laryngitis",
+        "49": "cataract",
+        "50": "reporting service"
+       
+
+    }
+]

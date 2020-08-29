@@ -1,0 +1,413 @@
+[
+    {
+        "1": "Headquarter of WHO is situated in:?",
+        "2": "At HP level stock of drugs must not be less than ....., duration.",
+        "3": "Which is not the medical emergency?",
+        "4": "Yellow fever is transmitted by:",
+        "5": "The causative organism of AIDS is ?",
+        "6": "Sexual contact is the major mode of transmission of AIDS. The statement is ?",
+        "7": " Chlorination does not kill:?",
+        "8": "Hepatitis B has been placed inImmunization from 2061/62 in.. districts. ",
+        "9": " Which is not the cause of gastritis?",
+        "10": "Most commonly accepted family planning measures",
+        "11": "Insecticides spraying program includes control of all diseases except",
+        "12": "Which is not under the CBIMCI program",
+        "13": "Which is the target of CPR up to the end of five year plan?",
+        "14": "Increase in the number of cells is called:",
+        "15": "The most common oral disease in Nepal:",
+        "16": "Incubation period of pertussis is:",
+        "17": "Which are the female reproductive organs",
+        "18": " Length of spermatozoa is ",
+        "19": "Which are the responses taken in GCS? ",
+        "20": "Cervical excitation is the sign of",
+        "21": "The ideal number of Antenatal visits of - pregnancy is",
+        "22": "Which is the elimination of leprosy?",
+        "23": "Interim plan period is from",
+        "24": "Which is not the major manifestation of Rheumatic fever?",
+        "25": "Most common cause of Cirrhosis is ...",
+        "26": " Viral encephalitis affects",
+        "27": " Which is the causative agent of scabies?",
+        "28": "Vector for kala-azar is",
+        "29": "Which among the following is not under EPI in Nepal",
+        "30": "The very useful diagnosis for Tuberculosis is",
+        "31": "Most common poisoning in Nepal is:",
+        "32": "Albumin is: ",
+        "33": "Human eye lens is ",
+        "34": " Eye transplantation means",
+        "35": "Hemoglobin level less than 5gm% is considered as ",
+        "36": "Which is water borne disease?",
+        "37": " Which is not the high risk cases of pregnancy? ",
+        "38": "Which is not the danger sign of ARI?",
+        "39": " Inflammation of bladder is called as:",
+        "40": "The objective of first and are all except:",
+        "41": "MDT stands for:",
+        "42": "Disease that occur clearly more than expected frequency is known as",
+        "43": "Which one is not an ATT drug?",
+        "44": "The drug of choice for scabies",
+        "45": "Myxedema is the disorder of the gland?",
+        "46": "Which of the following is not transmitted by faeco-oral route? ",
+        "47": " Polio vaccine is ",
+        "48": "A 45 year male is unable to read newspaper which lens should be use?",
+        "49": "Filariasis is caused by:",
+        "50": "Informing people, motivating people and changing behavior is the objective"
+       
+        
+
+    },
+    {
+        "1": {
+            "a": "America",
+            "b": "Switzerland",
+            "c": "Japan",
+            "d": "India"
+        },
+        "2": {
+            "a": "3 months",
+            "b": "2 months",
+            "c": "5 months",
+            "d": "1 months"
+        },
+        "3": {
+            "a": "status epilepticus",
+            "b": "head injury",
+            "c": "Corpulmonale",
+            "d": "emphysema"
+        },
+        "4": {
+            "a": "Culex",
+            "b": "Anopheles",
+            "c": "Aedes",
+            "d": "All of the above"
+        },
+        "5": {
+            "a": "Rhabdovirus",
+            "b": "Retrovirus",
+            "c": "Myxovirus",
+            "d": "Paramyxovirus"
+        },
+        "6": {
+            "a": "True",
+            "b": "False",
+            "c": "50/50",
+            "d": "None of the above"
+        },
+        "7": {
+            "a": "bacteria",
+            "b": "Virus",
+            "c": "Protozoa",
+            "d": "Spores"
+        },
+        "8": {
+            "a": "45",
+            "b": "65",
+            "c": "75",
+            "d": "25"
+        },
+        "9": {
+            "a": "Hookworm ",
+            "b": "round worm",
+            "c": "Ringworm ",
+            "d": "Tapeworm "
+        },
+        "10": {
+            "a": "Depo",
+            "b": "Pills ",
+            "c": "Pills ",
+            "d": "Pills "
+        },
+        "11": {
+            "a": "Hepatitis",
+            "b": "Kala-azar ",
+            "c": "Malaria",
+            "d": "Encephalitis "
+        },
+        "12": {
+            "a": "TB",
+            "b": "Malaria",
+            "c": "ARI",
+            "d": "Diarrhoea"
+        },
+        "13": {
+            "a": "43%",
+            "b": "47%",
+            "c": "49%",
+            "d": "57%"
+        },
+        "14": {
+            "a": "Hyperplasia ",
+            "b": "Hypertrophy ",
+            "c": "Metaplasia",
+            "d": "All of the above"
+        },
+        "15": {
+            "a": "Dental caries",
+            "b": "periodontitis",
+            "c": "Pericoronitis",
+            "d": "cleft lips & other anomalies"
+        },
+        "16": {
+            "a": "5-10 days",
+            "b": "9-14 days",
+            "c": "3 - 8 days",
+            "d": "7 - 14 days"
+        },
+        "17": {
+            "a": "uterus and vagina ",
+            "b": "ovaries and vagina",
+            "c": "uterus, ovaries & vagina",
+            "d": "uterus and ovaries "
+        },
+        "18": {
+            "a": "50 um",
+            "b": "100 um ",
+            "c": "120 um",
+            "d": "300 um "
+        },
+        "19": {
+            "a": "Verbal response and eye opening response",
+            "b": "Verbal, eye opening and motor response",
+            "c": " Eye opening and motor response",
+            "d": "None"
+        },
+        "20": {
+            "a": "fibroid ",
+            "b": "endometriosis",
+            "c": "pregnancy ",
+            "d": "PID "
+        },
+        "21": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        },
+        "22": {
+            "a": "Incidence rate below 1 per 1000 ",
+            "b": "Prevalence rate below 1 per 10,000",
+            "c": "Incidence rate below I per 10,000",
+            "d": "Disability rate below 1 per 10000"
+        },
+        "23": {
+            "a": "2062/63 to 2064/65",
+            "b": "2063/64 to 2065 / 2066",
+            "c": "2064/65 to 2066/67",
+            "d": "2065/66 to 2067/2068"
+        },
+        "24": {
+            "a": "Carditis ",
+            "b": "Polyarthritis ",
+            "c": "Fever",
+            "d": "subcutaneous nodul"
+        },
+        "25": {
+            "a": "Alcoholism ",
+            "b": "smoking ",
+            "c": "Hepatitis",
+            "d": "viral "
+        },
+        "26": {
+            "a": "Liver",
+            "b": "Brain ",
+            "c": "Kidney",
+            "d": "Bone "
+        },
+        "27": {
+            "a": "Hard tick",
+            "b": "Itch mite",
+            "c": "Soft tick",
+            "d": "Pthrius pubis "
+        },
+        "28": {
+            "a": "Mosquito ",
+            "b": "Phetebotomus ",
+            "c": "Black fly",
+            "d": "Reduvild bug"
+        },
+        "29": {
+            "a": "Mumps",
+            "b": "Measles ",
+            "c": "BCG",
+            "d": "DPT"
+        },
+        "30": {
+            "a": "Mantoux test ",
+            "b": "Chest x-ray",
+            "c": "Sputum examination",
+            "d": " sputum culture"
+        },
+        "31": {
+            "a": "Organophosphorus ",
+            "b": "Kerosene ",
+            "c": "Acid",
+            "d": "organochlorine "
+        },
+        "32": {
+            "a": "Carbohydrate",
+            "b": "protein ",
+            "c": "vitamin",
+            "d": "mineral "
+        },
+        "33": {
+            "a": "Round",
+            "b": "Biconcave ",
+            "c": "Biconvex",
+            "d": "Spherical "
+        },
+        "34": {
+            "a": "lens",
+            "b": "pupil ",
+            "c": "cornea",
+            "d": "retina "
+        }, 
+         "35": {
+            "a": "mild anemia",
+            "b": " moderate anemia",
+            "c": "severe anemia",
+            "d": "none of the above"
+        },
+        "36": {
+            "a": "Malaria",
+            "b": "Polio",
+            "c": "chicken pox",
+            "d": "diphtheria"
+        },
+        "37": {
+            "a": "Height more than 4 ft",
+            "b": "mother having >4 children",
+            "c": "unmarried women",
+            "d": "<19 years and >35 years women"
+        },
+        "38": {
+            "a": "Continuous coughing",
+            "b": "Chest in-drawing",
+            "c": "Severe malnutrition",
+            "d": "High grade fever"
+        },
+        "39": {
+            "a": "Nephritis",
+            "b": "pyelonephritis",
+            "c": "Urethritis",
+            "d": "none of the above"
+        },
+        "40": {
+            "a": "To preserve life",
+            "b": "To promote recovery",
+            "c": "To prevent worsening of patient",
+            "d": "To cure the disease"
+        },
+        "41": {
+            "a": "Multi Dose Therapy",
+            "b": "Multi Drug Treatment",
+            "c": "Multi Drug Therapy",
+            "d": "Multiple Drug Therapy"
+        },
+        "42": {
+            "a": "Endemic",
+            "b": "Epidemic",
+            "c": "Pandemic",
+            "d": "Sporadic"
+        },
+        "43": {
+            "a": "Ethambutol",
+            "b": "Erythromycin",
+            "c": "Streptomycin",
+            "d": "Isoniazid "
+        },
+        "44": {
+            "a": "Gentian violet ",
+            "b": "Benzyl benzoate",
+            "c": "Mercurochrome",
+            "d": "Dettol "
+        },
+        "45": {
+            "a": "pituitary",
+            "b": "thyroid",
+            "c": "parathyroid",
+            "d": "adrenal"
+        },
+        "46": {
+            "a": "Hepatitis A",
+            "b": "Hepatitis B",
+            "c": "Hepatitis C",
+            "d": "Cholera"
+        },
+        "47": {
+            "a": "live attenuated oral",
+            "b": "killed attenuated oral ",
+            "c": "Toxoid oral ",
+            "d": "mixed oral"
+        },
+        "48": {
+            "a": "concave",
+            "b": "convex",
+            "c": "spherical",
+            "d": "cylindrical"
+        },
+        "49": {
+            "a": "mosquito ",
+            "b": "nematode",
+            "c": "Fly",
+            "d": "Bees"
+        },
+        "50": {
+            "a": "community diagnosis",
+            "b": "Health education",
+            "c": "preventive measure",
+            "d": "socialized medicine"
+        }
+
+    },
+    {
+        "1": "Switzerland",
+        "2": "1 months",
+        "3": "emphysema",
+        "4": "Aedes",
+        "5": "Retrovirus",
+        "6": "True",
+        "7": "Spores",
+        "8": "75",
+        "9": "round worm",
+        "10": "Depo",
+        "11": "Hepatitis",
+        "12": "TB",
+        "13": "57%",
+        "14": "Hyperplasia ",
+        "15": "Dental caries",
+        "16": "7 - 14 days",
+        "17": "uterus, ovaries & vagina",
+        "18": "50 um",
+        "19": "Verbal, eye opening and motor response",
+        "20": "pregnancy ",
+        "21": "4",
+        "22": "Prevalence rate below 1 per 10,000",
+        "23": "2065/66 to 2067/2068",
+        "24": "Fever",
+        "25": "Alcoholism ",
+        "26": "Brain ",
+        "27": "Itch mite",
+        "28": "Phetebotomus ",
+        "29": "Mumps",
+        "30": "Sputum examination ",
+        "31": "Organophosphorus ",
+        "32": "protein ",
+        "33": "Biconvex",
+        "34": "cornea",
+        "35": "severe anemia",
+        "36": "Polio",
+        "37": "Height more than 4 ft",
+        "38": "Continuous coughing",
+        "39": "none of the above",
+        "40": "To cure the disease",
+        "41": "Multi Drug Therapy",
+        "42": "Epidemic",
+        "43": "Erythromycin",
+        "44": "Benzyl benzoate",
+        "45": "thyroid",
+        "46": "Hepatitis C",
+        "47": "live attenuated oral",
+        "48": "convex",
+        "49": "nematode",
+        "50": "Health education"
+
+    }
+]

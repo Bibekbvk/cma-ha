@@ -1,0 +1,411 @@
+[
+    {
+        "1": "Headquarter of UNICEF is located in ?",
+        "2": " HepB vaccine introduced as Tetravalent form?",
+        "3": "Full from of LMD is ?",
+        "4": "Full form of FEFO is ?",
+        "5": " Improvement in child problem is related to MDG?",
+        "6": "Current multiyear immunization plan runs from?",
+        "7": "MINI stand for ?",
+        "8": "Process of making choice among possible alternatives is an example of ?",
+        "9": "In winter period icebox should place outside the refrigerator before keeping in vaccine carrier.?",
+        "10": "Do the same thing differently goes for?",
+        "11": "Pull system is only applicable fo?",
+        "12": "SHP should report their HMIS with in ?",
+        "13": "Which of the following is not the community level organization ?",
+        "14": " In prevalent vaccine live vaccine is:?",
+        "15": "Measles elimination by the year?",
+        "16": "DQSA stands for?",
+        "17": "Target of MDG to reduce the incidence of stunting in ?",
+        "18": " First step of adaptation is?",
+        "19": "Guinea warm is mainly common in?",
+        "20": "Orthotolidine test is useful for measuring for?",
+        "21": "Acid rain is mainly due to ?",
+        "22": "School Health and nutrition week is celebrated in?",
+        "23": "Current unmet need of family planning?",
+        "24": "High risk of malaria indicates?",
+        "25": "Component of controlling is?",
+        "26": "Oral Health unit is comes under?",
+        "27": "DOTS programme started firstly in?",
+        "28": "Which of the following is the member secretary of HFOMC?",
+        "29": "Dark age of medicine is ?",
+        "30": "Most common cause of cervical cancer is ?",
+        "31": "Most common malnutrition in children?",
+        "32": " Profound mental retardation is?",
+        "33": "SSPE is usually seen in which disease??",
+        "34": "Infantile beriberi is usually seen at the age of ",
+        "35": "Chyluria is mainly seen in?",
+        "36": "Reflux trismus is seen in?",
+        "37": "Appropriate history taking can help to diagnose the disease to ?",
+        "38": "Royal disease is?",
+        "39": "Most common cause of gastric ulcer is:?",
+        "40": "Reactionary hemorrhage is?",
+        "41": " For achieving the NRR 1,CPR should be ?",
+        "42": "Rise in Basal body temperature is mainly due to?",
+        "43": "Drug of choice for Eclampsia is?",
+        "44": "Warts are caused by ?",
+        "45": "Which of the following is not abused?",
+        "46": "Snellen's chart is related to ?",
+        "47": "Which of the following provides nearly 100% contraception ?",
+        "48": "Which of the following position in health care system is fulfilled by 100% promotion ?",
+        "49": "At least how many service years should be needed for getting ashaadharan bida?",
+        "50": "Genital mutilation is an example of?"
+    },
+    {
+        "1": {
+            "a": "Switzerland ",
+            "b": "America ",
+            "c": "England",
+            "d": "China"
+        },
+        "2": {
+            "a": "2061/62",
+            "b": "2062/63 ",
+            "c": "2063/64",
+            "d": "2060/61"
+        },
+        "3": {
+            "a": "Leprosy management division",
+            "b": "Leprosy control division ",
+            "c": "Leprosy Multi Drug regimen ",
+            "d": "none of above"
+        },
+        "4": {
+            "a": "First entry first out",
+            "b": "First expiry first out ",
+            "c": "Final expiry first out",
+            "d": "Final entry first out "
+        },
+        "5": {
+            "a": "5th goal",
+            "b": " 4th goal",
+            "c": "6th goal",
+            "d": "Not included in MGD"
+        },
+        "6": {
+            "a": "2009",
+            "b": "2012AD ",
+            "c": "2011AD",
+            "d": "2016AD "
+        },
+        "7": {
+            "a": " Morang innovative neonatal intervention",
+            "b": "Mumbai innovation on neonatal Health",
+            "c": "Manang initiation of neonatal intervention",
+            "d": "Maternal and neonatal intervention"
+        },
+        "8": {
+            "a": "Prioritization ",
+            "b": "Implementation ",
+            "c": "problem solving",
+            "d": "Decision making "
+        },
+        "9": {
+            "a": "10-15 minute",
+            "b": "20-25 minute ",
+            "c": "30-45 minute",
+            "d": "5-25 minute"
+        },
+        "10": {
+            "a": "Management ",
+            "b": "Directing ",
+            "c": "Administration ",
+            "d": "None of the above"
+        },
+        "11": {
+            "a": "Below district level",
+            "b": "below PHC level ",
+            "c": "Below regional level ",
+            "d": "All level"
+        },
+        "12": {
+            "a": "1st day of next month ",
+            "b": " 3rd day of next month",
+            "c": " 5th day of next month",
+            "d": "No need of reporting "
+        },
+        "13": {
+            "a": "PHC/ORC",
+            "b": "EPI clinic",
+            "c": " Health hut",
+            "d": "SHP"
+        },
+        "14": {
+            "a": "Pertussis",
+            "b": "HIB ",
+            "c": "Hepatitis ",
+            "d": "None of above"
+        },
+        "15": {
+            "a": "2014 ",
+            "b": "2016",
+            "c": "2020 ",
+            "d": "2019"
+        },
+        "16": {
+            "a": "Data quality self-assessment",
+            "b": "Data quality system of assessment",
+            "c": "data quality assessment system",
+            "d": "data quantity self-assessment "
+        },
+        "17": {
+            "a": "20%",
+            "b": "28%",
+            "c": "5%",
+            "d": "27%"
+        },
+        "18": {
+            "a": "Awareness",
+            "b": "Interest ",
+            "c": "Evaluation",
+            "d": "trial "
+        },
+        "19": {
+            "a": "People using step well water",
+            "b": "people using deep",
+            "c": "people using river water",
+            "d": "people using rain water"
+        },
+        "20": {
+            "a": "Free chlorine in the water ",
+            "b": " combined chlorine in water",
+            "c": "both free and combined",
+            "d": "none of above"
+        },
+        "21": {
+            "a": "SO2",
+            "b": " NO2",
+            "c": "H2SO4",
+            "d": "CO"
+        },
+        "22": {
+            "a": "Jestha 1-7",
+            "b": "Paush 1-7",
+            "c": "Jestha 20-27",
+            "d": "Paush 10-16"
+        },
+        "23": {
+            "a": "27%",
+            "b": "30% ",
+            "c": "80%",
+            "d": "25%"
+        },
+        "24": {
+            "a": "API>2",
+            "b": "API>3 ",
+            "c": "API>1",
+            "d": " API>5"
+        },
+        "25": {
+            "a": "Supervision",
+            "b": "Monitoring",
+            "c": "Evaluation",
+            "d": "All of above"
+        },
+        "26": {
+            "a": "Management division",
+            "b": "FH division",
+            "c": "EDCD",
+            "d": "Not under health division "
+        },
+        "27": {
+            "a": " 5 districts",
+            "b": "10 districts",
+            "c": "all over the country",
+            "d": "4 districts "
+        },
+        "28": {
+            "a": "VDC chairperson ",
+            "b": "health institution incharge",
+            "c": "FCHV ",
+            "d": "Headmaster"
+        },
+        "29": {
+            "a": "500-1500 AD",
+            "b": "1000-1500 AD",
+            "c": "2000 AD",
+            "d": "21st Century"
+        },
+        "30": {
+            "a": "HPV",
+            "b": "VZV ",
+            "c": "EMY",
+            "d": "CMV"
+        },
+        "31": {
+            "a": "PEM",
+            "b": "Vit -a deficiency",
+            "c": "Iodine deficiency",
+            "d": "none of above"
+        },
+        "32": {
+            "a": "<20",
+            "b": "35 ",
+            "c": "<50",
+            "d": "<45 "
+        },
+        "33": {
+            "a": "Measles",
+            "b": "pneumonia ",
+            "c": "cordites",
+            "d": "stroke "
+        },
+        "34": {
+            "a": "5-10 years",
+            "b": "2-4 month",
+            "c": " 8-12 month",
+            "d": "1-5 years"
+        },
+        "35": {
+            "a": "filariasis",
+            "b": "leishmaniasis ",
+            "c": "Amoebiasis",
+            "d": "ancylostomiasis "
+        },
+        "36": {
+            "a": "Tetanus ",
+            "b": "Myasthenia gravis",
+            "c": "poliomyelitis",
+            "d": "snake bite"
+        },
+        "37": {
+            "a": "50% ",
+            "b": "70%",
+            "c": "80%",
+            "d": "no role history taking "
+        },
+        "38": {
+            "a": "Hemophilia ",
+            "b": "Thalassemia ",
+            "c": "sickle cell anaemia",
+            "d": "all of above"
+        },
+        "39": {
+            "a": "NSAID use",
+            "b": "H. pylori",
+            "c": "alcohol",
+            "d": "stress "
+        },
+        "40": {
+            "a": "Hemorrhage with in 24 hour",
+            "b": "Hemorrhage within 6 hours",
+            "c": " not defined",
+            "d": "Hemorrhage after 28 hour "
+        },
+        "41": {
+            "a": " 50%",
+            "b": "40% ",
+            "c": "70%",
+            "d": "60%"
+        },
+        "42": {
+            "a": "Estrogen",
+            "b": "progesterone ",
+            "c": "FSH",
+            "d": "LH "
+        },
+        "43": {
+            "a": "Magnesium sulphate",
+            "b": "potassium sulphate",
+            "c": "magnesium chloride",
+            "d": "all of above"
+        },
+        "44": {
+            "a": "Virus ",
+            "b": "Bacteria ",
+            "c": "Fungi",
+            "d": " No biological cause"
+        },
+        "45": {
+            "a": "Caffeine",
+            "b": "Barbiturate ",
+            "c": "tobacco",
+            "d": "alcohol "
+        },
+        "46": {
+            "a": "Eye",
+            "b": "ear ",
+            "c": "nose",
+            "d": "ENT "
+        },
+        "47": {
+            "a": "OCP",
+            "b": " POP ",
+            "c": "Vasectomy ",
+            "d": "Both a &c "
+        },
+        "48": {
+            "a": "11th level",
+            "b": "12th level",
+            "c": "10th level",
+            "d": "9th level"
+        },
+        "49": {
+            "a": " 2 years",
+            "b": "4 years",
+            "c": "5 years",
+            "d": "6 years"
+        },
+        "50": {
+            "a": "Gender based violence",
+            "b": "culture based violence",
+            "c": "place based violence",
+            "d": "ethic based violence"
+        }
+
+    },
+    {
+        "1": "America ",
+        "2": "2062/63 ",
+        "3": "none of above",
+        "4": "First expiry first out ",
+        "5": " 4th goal",
+        "6": "2011AD",
+        "7": " Morang innovative neonatal intervention",
+        "8": "Decision making ",
+        "9": "30-45 minute",
+        "10": "Management ",
+        "11": "Below district level",
+        "12": " 3rd day of next month",
+        "13": "SHP",
+        "14": "None of above",
+        "15": "2019",
+        "16": "Data quality self-assessment",
+        "17": "28%",
+        "18": "Awareness",
+        "19": "People using step well water",
+        "20": "both free and combined",
+        "21": "SO2",
+        "22": "Jestha 1-7",
+        "23": "27%",
+        "24": "API>2",
+        "25": "All of above",
+        "26": "Not under health division ",
+        "27": "4 districts ",
+        "28": "health institution incharge",
+        "29": "500-1500 AD",
+        "30": "HPV",
+        "31": "PEM",
+        "32": "<20",
+        "33": "Measles",
+        "34": "2-4 month",
+        "35": "filariasis",
+        "36": "Tetanus ",
+        "37": "80%",
+        "38": "Hemophilia ",
+        "39": "H. pylori",
+        "40": "Hemorrhage with in 24 hour",
+        "41": "60%",
+        "42": "progesterone ",
+        "43": "Magnesium sulphate",
+        "44": "Virus ",
+        "45": "Caffeine",
+        "46": "Eye",
+        "47": "OCP",
+        "48": "12th level",
+        "49": " 2 years",
+        "50": "Gender based violence"
+       
+
+    }
+]

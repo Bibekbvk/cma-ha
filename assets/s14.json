@@ -1,0 +1,416 @@
+[
+    {
+        "1": "which of the following communicable disease is the commonest in swimming pools?",
+        "2": "Erythropoietin is secreted by: ?",
+        "3": " Breast milk secreted immediately after delivery is called:  ?",
+        "4": "Following are the elements of Primary health care except: ?",
+        "5": "Maternal mortality ratio MMR, is ?",
+        "6": "Following drugs are used as the treatment of the worm in festation except?",
+        "7": "A test done to determine the presence of Salmonella is called ?",
+        "8": "Anemia is caused by: ",
+        "9": "A mental disease in which a person gets delusion of torture is known as:",
+        "10": "The substance associated with lung cancer is called?",
+        "11": "The number of deciduous teeth in man?",
+        "12": "Which is not a zoonotic disease:?",
+        "13": "Disease caused by food intoxicant are all except:?",
+        "14": "Clinical features of Rickets are all except?",
+        "15": "The most common cause of neonatal mortality ?",
+        "16": " The most appropriate time of IUCD insertion is:?",
+        "17": "All are the risk factor of carconoma of cervix except?",
+        "18": "All are the clinical features of kala-azar except?",
+        "19": "All the following antitubercular drugs are bactericidal except?",
+        "20": "One sachet of ORS contains all of the following, except: ",
+        "21": "Dettol is:?",
+        "22": "Incubation period ranges from 10 days to 3 weeks in all except?",
+        "23": "The mesoderm gives rise to all structures except?",
+        "24": "The longest visceral muscles are found in?",
+        "25": "The schlemm's canal is found in?",
+        "26": "Humoral antibodies are produced by?",
+        "27": "Nepal health service act 2053 published in?",
+        "28": "Rheumatic fever is common in whilethe following age groups?",
+        "29": "The following type of injections are commonly used for the treatment purpose, except:?",
+        "30": "All the following parasites reside primarily in gut excep?",
+        "31": "All are true about Diptheria except:",
+        "32": "All are true for iron deficiency anemiaexcept:",
+        "33": "All are complication of hepatitis B except:?",
+        "34": "Nosocomial infection is that infection acquired by:?",
+        "35": "the sodium absorption in intestine is majorly by the process of?",
+        "36": "Adrenaline is produced by:?",
+        "37": "Following diseases are viral diseases except?",
+        "38": "Purification of water in large scale is performed?",
+        "39": "In Nepal immunization for children includes all except:?",
+        "40": "Bartholin's glands are present in?",
+        "41": "Immunization is :",
+        "42": "All are killed vaccine except:",
+        "43": "Causative organism of small pox is?",
+        "44": "The most serious complication ofinfluenza is:?",
+        "45": "The most important for controlling tuberculosis are all except:?",
+        "46": "Epidemic of cholera is characterized by all of the following except:?",
+        "47": "Drug of choice for cholera for pregnant women is?",
+        "48": "The infective form of E. histolytica to man is:?",
+        "49": "Sexually transmitted disease is higher among the following except:?",
+        "50": "All the following are the cardinal findings for symptomatie HIV infection except:?"
+        
+    },
+    {
+        "1": {
+            "a": "Scabies",
+            "b": "conjunctivitis",
+            "c": "dysentry",
+            "d": "Diarrhoea"
+        },
+        "2": {
+            "a": "Pineal gland",
+            "b": "Liver",
+            "c": "Kidney",
+            "d": "Adrenal Gland"
+        },
+        "3": {
+            "a": "cholesterol",
+            "b": "meconium",
+            "c": "colostrum",
+            "d": "none of the above"
+        },
+        "4": {
+            "a": "Promotion of food supply and proper nutrition",
+            "b": "immunization against major killer disease", 
+            "c": "Provision of essential drugs",
+            "d": "Treatment of complicated disease"
+        },
+        "5": {
+            "a": "No. of maternal death due to pregnancy and its complication / total live births in same year * 100000",
+            "b": "No. of death due to pregnancy and its complication/ total live births in same year * 100000",
+            "c": "No. of maternal death due to tuberculosis / total live births in same year * 1000",           
+            "d": "none of the above"
+        },
+        "6": {
+            "a": "Albendazole",
+            "b": "mebendazole",
+            "c": "Niclosamide",
+            "d": "metronidazole"
+        },
+        "7": {
+            "a": "Mantoux test",
+            "b": "Widal test",
+            "c": "Schick's test",
+            "d": "Albumin test"
+        },
+        "8": {
+            "a": "Malnutrition",
+            "b": "Deficiency of Vitamin",
+            "c": "Deficiency of iron",
+            "d": "all of the above"
+        },
+        "9": {
+            "a": "Paranoia",
+            "b": "delirium",
+            "c": "Epilepsy",
+            "d": "depression"
+        },
+        "10": {
+            "a": "Coal tar",
+            "b": "Nickel",
+            "c": "asbestos",
+            "d": "Silica"
+        },
+        "11": {
+            "a": "20",
+            "b": "22",
+            "c": "23",
+            "d": "28"
+        },
+        "12": {
+            "a": "Rabies ",
+            "b": "salmonellosis",
+            "c": "Plague ",
+            "d": "Epidemic typhus" 
+        },
+        "13": {
+            "a": "Epidemic dropsy",
+            "b": "Endemic Ascites",
+            "c": "Lathyrism",
+            "d": "Pellagra" 
+        },
+        "14": {
+            "a": "Pigeon chest",
+            "b": "Muscular hypertonia",
+            "c": "Harrison's sulcus",
+            "d": "Delayed walking and teething" 
+        },
+        "15": {
+            "a": "Low birth weight",
+            "b": "Birth injury",
+            "c": "Hemolytic disease of new born",
+            "d": "Congenital anomalies " 
+        },
+        "16": {
+            "a": "At any time of menstrual cycle",
+            "b": "Just before menstruation",
+            "c": "At about the mid of menstruation cycle",
+            "d": "During or within the 10 days of menstruation" 
+        },
+        "17": {
+            "a": "multiple sex patner",
+            "b": "oral contraceptive user",
+            "c": "genital warts",
+            "d": "nulliparity" 
+        },
+        "18": {
+            "a": "Darkening of skin",
+            "b": "Leukocytosis",
+            "c": "Fever",
+            "d": "Hepatosplenomegaly" 
+        },
+        "19": {
+            "a": "Rifampin",
+            "b": "Isoniazid",
+            "c": "Streptomycin",
+            "d": "Ethambutol" 
+        },
+        "20": {
+            "a": "Sodium chloride",
+            "b": "Potassium chloride",
+            "c": "Magnesium chloride",
+            "d": "Glucose" 
+        },
+        "21": {
+            "a": "Hexachlorophene",
+            "b": "Cetrimide",
+            "c": "Chlorhexidine",
+            "d": "Chloroxylenol" 
+        },
+        "22": {
+            "a": "mumps",
+            "b": "Staphylococcal",
+            "c": "bacillary dysentery",
+            "d": "typhoid" 
+        },
+        "23": {
+            "a": "Nervous system",
+            "b": "Muscular system",
+            "c": "Gonads",
+            "d": "Circulatory system" 
+        },
+        "24": {
+            "a": "Vasa deferens",
+            "b": "Normal uterus",
+            "c": "Abdomen",
+            "d": "pregnant uterus" 
+        },
+        "25": {
+            "a": "Ear",
+            "b": "eye",
+            "c": "tongue",
+            "d": "Liver" 
+        },
+        "26": {
+            "a": "B cells",
+            "b": "T-cells",
+            "c": "Plasma cells",
+            "d": "Globulins" 
+        },
+        "27": {
+            "a": "2053/7/20",
+            "b": "2053/10/15",
+            "c": "2053/10/20",
+            "d": "2053/11/15" 
+        },
+        "28": {
+            "a": "5-15 yrs.",
+            "b": "After 25 yrs.",
+            "c": "adult",
+            "d": "30-35 yrs" 
+        },
+        "29": {
+            "a": "Intramuscular",
+            "b": "intradermal",
+            "c": "Intravenous",
+            "d": "Subcutaneous" 
+        },
+        "30": {
+            "a": "lumbricoides",
+            "b": "E. vermicularis",
+            "c": "G. lamblia",
+            "d": "L. donovani" 
+        },
+        "31": {
+            "a": "Immunization is available",
+            "b": "it produces throat infection",
+            "c": "The bacterium produces endotoxin",
+            "d": "It is caused by Corynebacterium diphtheria" 
+        },
+        "32": {
+            "a": "Low hemoglobin leve",
+            "b": "Decrease in red blood cell count",
+            "c": "Macrocytes",
+            "d": "target cells " 
+        },
+        "33": {
+            "a": "Liver abscess",
+            "b": "Liver carcinoma",
+            "c": "Cirrhosis",
+            "d": "chronic active hepatitis" 
+        },
+        "34": {
+            "a": "nasal excretion",
+            "b": "Droplet infection",
+            "c": "Hospital setting",
+            "d": "infection of nasal cavity" 
+        },
+        "35": {
+            "a": "Active transport",
+            "b": "Diffusion",
+            "c": "Passive transport",
+            "d": "facilitated diffusion" 
+        },
+        "36": {
+            "a": "Adrenal gland",
+            "b": "heart",
+            "c": "kidney",
+            "d": "brain" 
+        },
+        "37": {
+            "a": "Rabies",
+            "b": "hepatitis",
+            "c": "gonorrhea",
+            "d": "AIDS" 
+        },
+        "38": {
+            "a": "Iodine",
+            "b": "Potassium per magnate",
+            "c": "boiling",
+            "d": "chlorination" 
+        },
+        "39": {
+            "a": "Measles",
+            "b": "BCG",
+            "c": "Cholera",
+            "d": "OPV" 
+        },
+        "40": {
+            "a": "Pancreas",
+            "b": "testis",
+            "c": "vagina",
+            "d": "liver" 
+        },
+        "41": {
+            "a": "Rehabilitation",
+            "b": "early diagnosis and treatment",
+            "c": "Specific protection",
+            "d": "Health promotion" 
+        },
+        "42": {
+            "a": "BCG",
+            "b": "IPV",
+            "c": "Rabies vaccine",
+            "d": "chlorination" 
+        },
+        "43": {
+            "a": "Pox virus",
+            "b": "Herpes virus",
+            "c": "streptococcus",
+            "d": "paramyxo virus" 
+        },
+        "44": {
+            "a": "Pancreatitis",
+            "b": "Encephalitis",
+            "c": "Pneumonia",
+            "d": "Myocarditis" 
+        },
+        "45": {
+            "a": "Treatment",
+            "b": "rehabilitation",
+            "c": "BCG vaccination",
+            "d": "Case finding and treatment" 
+        },
+        "46": {
+            "a": "rapid spread",
+            "b": "abrupt onset",
+            "c": "rapid decline",
+            "d": "self-limiting" 
+        },
+        "47": {
+            "a": "ancomycin",
+            "b": "doxycycline",
+            "c": "metronidazole",
+            "d": "furazolidone" 
+        }, 
+        "48": {
+            "a": "egg",
+            "b": "cyst",
+            "c": "Trophozoite",
+            "d": "Merozoite" 
+        },
+        "49": {
+            "a": "separated person",
+            "b": "divorced person",
+            "c": "singles",
+            "d": "married couple" 
+        },
+        "50": {
+            "a": "Toxoplasma encephalitis",
+            "b": "Kaposi sarcoma",
+            "c": "Cytomegalovirus retinitis",
+            "d": "Cryptococcus meningitis" 
+        }
+
+
+
+
+
+
+    },
+    {
+        "1": "conjunctivitis",
+        "2": "Kidney",
+        "3": "colostrum",
+        "4": "Treatment of complicated disease",
+        "5": "No. of death due to pregnancy and its complication/ total live births in same year * 100000",
+        "6": "metronidazole",
+        "7": "Widal test",
+        "8": "all of the above",
+        "9": "Paranoia",
+        "10": "Coal tar",
+        "11": "20",
+        "12": "Epidemic typhus",
+        "13": "Pellagra",
+        "14": "Muscular hypertonia",
+        "15": "Low birth weight",
+        "16": "During or within the 10 days of menstruation",
+        "17": "nulliparity",
+        "18": "Leukocytosis",
+        "19": "Ethambutol",
+        "20": "Magnesium chloride",
+        "21": "Chloroxylenol",
+        "22": "bacillary dysentery",
+        "23": "Nervous system",
+        "24": "Abdomen",
+        "25": "eye",
+        "26": "B cells",
+        "27": "2053/11/15",
+        "28": "5-15 yrs.",
+        "29": "intradermal",
+        "30": "L. donovani",
+        "31": "The bacterium produces endotoxin",
+        "32": "Macrocytes",
+        "33": "Liver carcinoma",
+        "34": "Hospital setting",
+        "35": "Active transport",
+        "36": "Adrenal gland",
+        "37": "gonorrhea",
+        "38": "chlorination",
+        "39": "Cholera",
+        "40": "vagina",
+        "41": "Specific protection",
+        "42": "BCG",
+        "43": "Pox virus",
+        "44": "Pneumonia",
+        "45": "rehabilitation",
+        "46": "rapid decline",
+        "47": "furazolidone",
+        "48": "cyst",
+        "49": "married couple",
+        "50": "Toxoplasma encephalitis"
+        
+    }
+]

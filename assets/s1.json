@@ -1,0 +1,420 @@
+  [
+    {
+        "1": " Adrenaline injection is given in:?",
+        "2": " Monitor holder is done for:?",
+        "3": "Which of following is anticoagulant? ?",
+        "4": "Function of parathyroid?",
+        "5": "Insulin is produced from:?",
+        "6": "Deficiency of vitamin B12 causes:?",
+        "7": " Which of following is not the function calcium??",
+        "8": "Which of following is not essential fatty acid:?",
+        "9": " Good cholesterol for our body is:?",
+        "10": "Cretinism is caused by:?",
+        "11": "Which immunoglobulin acts as anti allergic ?",
+        "12": "Artificial passive vaccine in: ?",
+        "13": "Cystitis is the inflammation?",
+        "14": " In AIDS which one is decreased:?",
+        "15": "Confirmatory test for tuberculosis:?",
+        "16": "Which blood vessel supply pure foetal?",
+        "17": "Oxygenated blood is carried in human?",
+        "18": "Common cause of seizure in children?",
+        "19": " In patient with dyspnea:?",
+        "20": "Chief respiratory muscle in:?",
+        "21": "Pellagra is due to:?",
+        "22": "Melena is due to:?",
+        "23": "In enteric fever:?",
+        "24": "Which of the following is lymph/blood feeding parasite??",
+        "25": "Spirometry is related to:?",
+        "26": "The study of fungi:?",
+        "27": "Common cause of convulsion in child is:?",
+        "28": "tricuspid valve is present between?",
+        "29": "In hypothyroidism:?",
+        "30": "Which is not the typical feature in hyperthyroidism??",
+        "31": "Water is used in chest tube for:?",
+        "32": "Serum sodium level is : ?",
+        "33": "HIV virus is :?",
+        "34": "Artery which does not arise from aorta?",
+        "35": "K+ should be given slowly:?",
+        "36": "Pace maker of heart is kept in:?",
+        "37": "Puncture proof is used to store:?",
+        "38": "In disinfection, which one is not killed:?",
+        "39": "Banana is good source?",
+        "40": "Commonest cancer in Nepal is:?",
+        "41": "The calcium regulating vitamin is:?",
+        "42": "Complication of hypertension is:?",
+        "43": "Rheumatic fever causes:?",
+        "44": "Damage of foetus by drug is due to:?",
+        "45": "Which is not the spacing method of family planning?",
+        "46": "सानो बच्चामा Hepatitis B. को injection कहाँ दिइन्छ ?",
+        "47": "How much amount of fluid is to be given for 9 kg child in first 4 hours in case of dehydration?",
+        "48": "PHC/ORC प्राय कति समयको अन्तरमा संचालन",
+        "49": "Insulin is produced from:",
+        "50": "Full Form of NS"
+        
+
+
+
+        
+    },
+    {
+        "1": {
+            "a": " Neurogenic shock ",
+            "b": "hypovolemic shock",
+            "c": "Anaphylactic shock",
+            "d": "none of above"
+        },
+        "2": {
+            "a": " to detect myocardial function in heart failure",
+            "b": "to detect suspected arrhythmia",
+            "c": "to monitor heart rate",
+            "d": " both a &b"
+        },
+        "3": {
+            "a": "heparin",
+            "b": "streptokinase ",
+            "c": "aspirin ",
+            "d": "lovastatin"
+        },
+        "4": {
+            "a": "Ca-regulation",
+            "b": "Na + regulation",
+            "c": "K + regulation",
+            "d": "Hg+ regulation"
+        },
+        "5": {
+            "a": "liver ",
+            "b": "pancreas ",
+            "c": "spleen",
+            "d": "stomach"
+        },
+        "6": {
+            "a": "Megaloblastic anaemia ",
+            "b": "Haemolytic anaemia",
+            "c": "Iron deficiency anaemia",
+            "d": " all of above"
+        },
+        "7": {
+            "a": "bone marrow formation",
+            "b": "hair growth",
+            "c": "action potential",
+            "d": "vitamin D absorption"
+        },
+        "8": {
+            "a": "Ascorbic acid",
+            "b": "linoleic acid",
+            "c": " linolenic acid",
+            "d": "arachidonic acid"
+        },
+        "9": {
+            "a": "LDL ",
+            "b": "VLDL",
+            "c": "HDL",
+            "d": "IDL"
+        },
+        "10": {
+            "a": "Iron deficiency",
+            "b": "iodine deficiency",
+            "c": "vitamin B1 deficiency",
+            "d": "none of above"
+        },
+        "11": {
+            "a": "Iga",
+            "b": "IgG ",
+            "c": "IgM",
+            "d": "IgE "
+        },
+        "12": {
+            "a": "BCG",
+            "b": "polio ",
+            "c": "DPT",
+            "d": "none "
+        },
+        "13": {
+            "a": "Gall bladder",
+            "b": "urinary bladder",
+            "c": "cyst",
+            "d": "all of above"
+        },
+        "14": {
+            "a": "T-helper",
+            "b": "B-cell",
+            "c": "neutrophil",
+            "d": "both a & b"
+        },
+        "15": {
+            "a": "Mantoux ",
+            "b": "chest X-ray",
+            "c": "sputum AFB ",
+            "d": "all of above"
+        },
+        "16": {
+            "a": "Umbilical artery",
+            "b": "umbilical vein",
+            "c": "ductus arteriosus",
+            "d": " hepatic vein"
+        },
+        "17": {
+            "a": "Superior venacava ",
+            "b": "inferior venaca",
+            "c": "Pulmonary artery",
+            "d": "pulmonary vein"
+        },
+        "18": {
+            "a": "JE ",
+            "b": "fever",
+            "c": "meningitis ",
+            "d": "cold"
+        },
+        "19": {
+            "a": "Head end of the bed should raise",
+            "b": " Foot end of the bed should be raised",
+            "c": "Give IV fluid",
+            "d": "none of above"
+        },
+        "20": {
+            "a": "Intercostal muscles",
+            "b": "diaphragm ",
+            "c": "nose",
+            "d": "all of above"
+        },
+        "21": {
+            "a": "Vitamin B1 deficiency",
+            "b": "Vitamin D deficiency",
+            "c": "Niacin deficiency",
+            "d": "vitamin A deficiency"
+        },
+        "22": {
+            "a": "Upper GI bleeding",
+            "b": "lower GI bleeding",
+            "c": "gastritis",
+            "d": "peptic ulcer"
+        },
+        "23": {
+            "a": "Pulse & temperature are correlated",
+            "b": "Pulse & temperature are not correlated",
+            "c": "Pulse & blood pressure are correlated",
+            "d": "Pulse, blood pressure & temperature are correlated"
+        },
+        "24": {
+            "a": "Wuchereria bancrofti",
+            "b": " trypnosoma gambusia",
+            "c": "Plasmodium vivax",
+            "d": "Cryptococcus"
+        },
+        "25": {
+            "a": "Heart function test ",
+            "b": "liver function test",
+            "c": "Lung function test",
+            "d": " bilirubin test"
+        },
+        "26": {
+            "a": "Mycology ",
+            "b": "psychology ",
+            "c": "algology ",
+            "d": "parasitology "
+        },
+        "27": {
+            "a": "Fever ",
+            "b": "diarrhoea",
+            "c": "epilepsy ",
+            "d": "all of above"
+        },
+        "28": {
+            "a": "Right atrium & right ventricle",
+            "b": "left atrium & left ventricle",
+            "c": "Right atrium & left atrium",
+            "d": "left ventricle & right ventricle"
+        },
+        "29": {
+            "a": "TSH increased",
+            "b": "TSH decreased ",
+            "c": "GH increased",
+            "d": "GH decreased"
+        },
+        "30": {
+            "a": "Loss of appetite",
+            "b": "increased appetite",
+            "c": "Exophthalmos",
+            "d": "toxic nodular goiter"
+        },
+        "31": {
+            "a": "to pass air ",
+            "b": "to prevent air",
+            "c": "for lubrication",
+            "d": "none of above"
+        },
+        "32": {
+            "a": "130-140 mEq/L",
+            "b": "135-145 mEq/L",
+            "c": "145-155 mEq/L",
+            "d": "155-165 mEq/L"
+        },
+        "33": {
+            "a": "RNA virus",
+            "b": "DNA virus",
+            "c": "retro virus",
+            "d": "cytomegalo virus"
+        },
+        "34": {
+            "a": "eft sub clavian artery",
+            "b": "right sub clavian artery",
+            "c": "right brachiocephalic artery",
+            "d": "carotid artery "
+        },
+        "35": {
+            "a": "to prevent cardiac arrest",
+            "b": "to prevent respiratory failure",
+            "c": "to maintain urinary output",
+            "d": "both a &b"
+        },
+        "36": {
+            "a": "heart failure",
+            "b": "tachyarrhythmia",
+            "c": "both of above",
+            "d": "none of above"
+        },
+        "37": {
+            "a": "hazardous waste",
+            "b": "sharp instrument",
+            "c": "general waste",
+            "d": "all of above "
+        },
+        "38": {
+            "a": "vegetative form",
+            "b": "virus",
+            "c": "spore",
+            "d": "both a &c"
+        },
+        "39": {
+            "a": "Sodium",
+            "b": "iron ",
+            "c": "potassium",
+            "d": "all of above"
+        },
+        "40": {
+            "a": "Breast",
+            "b": "uterus ",
+            "c": "lungs",
+            "d": "cervix "
+        },
+        "41": {
+            "a": "Vitamin A ",
+            "b": "vitamin B",
+            "c": "vitamin D",
+            "d": "vitamin E"
+        },
+        "42": {
+            "a": "Brain hemorrhage",
+            "b": "intestinal obstruction",
+            "c": "Gastritis",
+            "d": "none of above"
+        },
+        "43": {
+            "a": "heart disease",
+            "b": "lung disease",
+            "c": "liver disease",
+            "d": "GI disease"
+        },
+        "44": {
+            "a": "Teratogenic effect",
+            "b": " toxic effect",
+            "c": "adverse effect ",
+            "d": "none "
+        },
+        "45": {
+            "a": " Male condoms",
+            "b": "Depo-Provera",
+            "c": "sterilization",
+            "d": "Norplant"
+        },
+        "46": {
+            "a": "left/ Right thigh",
+            "b": "Right arm",
+            "c": "left arm",
+            "d": "right arm"
+        },
+        "47": {
+            "a": "675 ml",
+            "b": "375 ml",
+            "c": "900 ml",
+            "d": "475 ml"
+        },
+        "48": {
+            "a": "every 3 month",
+            "b": "every month",
+            "c": "every 15 days",
+            "d": "every 4 month"
+        },
+        "49": {
+            "a": "liver ",
+            "b": "pancreas ",
+            "c": " spleen",
+            "d": "stomach "
+        },
+        "50": {
+            "a": "Normal saline",
+            "b": "Normal solution",
+            "c": "Noral salt",
+            "d": "None"
+        }
+
+       
+
+    },
+    {
+        "1": "Anaphylactic shock",
+        "2": "to detect suspected arrhythmia",
+        "3": "heparin",
+        "4": "Ca-regulation",
+        "5": "pancreas ",
+        "6": "Megaloblastic anaemia ",
+        "7": "hair growth",
+        "8": "Ascorbic acid",
+        "9": "HDL",
+        "10": "iodine deficiency",
+        "11": "IgE ",
+        "12": "none ",
+        "13": "urinary bladder",
+        "14": "T-helper",
+        "15": "sputum AFB ",
+        "16": "umbilical vein",
+        "17": "pulmonary vein",
+        "18": "fever",
+        "19": "Head end of the bed should raise",
+        "20": "diaphragm ",
+        "21": "Niacin deficiency",
+        "22": "Upper GI bleeding",
+        "23": "Pulse & temperature are not correlated",
+        "24": "Wuchereria bancrofti",
+        "25": "Lung function test",
+        "26": "Mycology ",
+        "27": "Fever ",
+        "28": "Right atrium & right ventricle",
+        "29": "TSH increased",
+        "30": "Loss of appetite",
+        "31": "to prevent air",
+        "32": "135-145 mEq/L",
+        "33": "retro virus",
+        "34": "right sub clavian artery",
+        "35": "to prevent cardiac arrest",
+        "36": "tachyarrhythmia",
+        "37": "all of above ",
+        "38": "both a &c",
+        "39": "potassium",
+        "40": "lungs",
+        "41": "vitamin D",
+        "42": "Brain hemorrhage",
+        "43": "heart disease",
+        "44": "Teratogenic effect",
+        "45": "sterilization",
+        "46": "left/ Right thigh",
+        "47": "675 ml",
+        "48": "every month",
+        "49": "pancreas ",
+        "50": "Normal saline"
+        
+    
+    
+    
+    }
+]

@@ -1,0 +1,411 @@
+[
+    {
+        "1": "The most insanitary method of waste disposal?",
+        "2": "Daily requirement of iodone for adult  ?",
+        "3": " which is not the major 5 cause of under five mortality?",
+        "4": "Water waste in which human excreta is also mixed ?",
+        "5": "Polio is a ?",
+        "6": "Brain damage occur in which of the following? ?",
+        "7": "Most common cause of maternal mortality in Nepal is??",
+        "8": "Rabies virus is found in .......of infected animals. ?",
+        "9": "A pregnant women is called anemic when Hemoglobin level is below:?",
+        "10": "The target group for vitamin A  supplementation?",
+        "11":"A person having bluish discoloration of tongue due to hypoxia in blood is know as",
+        "12": "Oedema occurs in:?",
+        "13": "A wound is called lacerated if there is:?",
+        "14": "Malaria is endemic in ...... district Nepal.?",
+        "15": "When mosquito bites human which form are injected into blood causing malaria??",
+        "16": "When was the first case of AIDS detected in Nepal??",
+        "17": "In AIDS which cell is mostly affected?",
+        "18": "Which disease can be transmitted byBAT??",
+        "19": "Breast feeding week is observed from:?",
+        "20": "In which of the following numerator is not the part of denominator??",
+        "21": "All are the measures of vector control for malaria and filarial except?",
+        "22": "Which test is done for kala-azar??",
+        "23": " First aid treatment for infected wound is?",
+        "24": "In typhoid which type of fever is seen??",
+        "25": "How many PHC-ORC can be conducted in one village?",
+        "26": "Ministry of Health & population undertake Pi program review:?",
+        "27": "In child what is seen most commonly due to worm infestation??",
+        "28": "Which insecticide is used inside the residual place for the control of kalaazar & malaria??",
+        "29": "What is the common cause of mental retardation?",
+        "30": "Which of the following is not the objective of TB programme?",
+        "31": "Which is the temperature for proper storage of Hepatitis, DPT & TT vaccine? ",
+        "32": "The following are the risk condition in pregnancy except",
+        "33": "The leprosy isnot eliminated in neppal as",
+        "34": "FCHV programme is implemented as population basis in howmany district",
+        "35": "In PHC/ORC all service are available except:",
+        "36": "Which of the most is not present in primary health care centre?",
+        "37": "Malaria is transmitted by",
+        "38": "Primaquine kills which stage of malaria?",
+        "39": "Emergency contraceptive has to be! taken within ............. after unsafe sexual intercourse.",
+        "40": "All the following are done as emergency management for fracture and injury except: ",
+        "41": "Which among the following is not the sign of shock?",
+        "42": "Most common symptoms of ear disease is",
+        "43": "Which among the following is not the objective of family planning ",
+        "44": "Which among the following come under simple physical examination? ",
+        "45": "Which is not the spacing method of family planning?",
+        "46": "सानो बच्चामा Hepatitis B. को injection कहाँ दिइन्छ ?",
+        "47": "How much amount of fluid is to be given for 9 kg child in first 4 hours in case of dehydration?",
+        "48": "PHC/ORC प्राय कति समयको अन्तरमा संचालन",
+        "49": "Insulin is produced from:",
+        "50": "Full Form of NS"
+    },
+    {
+        "1": {
+            "a": "Incineration",
+            "b": "Dumping",
+            "c": "Trench filling",
+            "d": "Composting"
+        },
+        "2": {
+            "a": "50",
+            "b": "100",
+            "c": "150",
+            "d": "200"
+        },
+        "3": {
+            "a": "ARI",
+            "b": "Diarrhoea",
+            "c": "Malnutrition",
+            "d": "Congential anamoly"
+        },
+        "4": {
+            "a": "sewage",
+            "b": "sullage",
+            "c": "refuse",
+            "d": "litter"
+        },
+        "5": {
+            "a": "disease",
+            "b": "factor ",
+            "c": "causative agent",
+            "d": "Vaccine"
+        },
+        "6": {
+            "a": "Hyperthyroidism",
+            "b": "goiter",
+            "c": "myxoedema",
+            "d": "cretinism"
+        },
+        "7": {
+            "a": "Anemia ",
+            "b": "unsafe abortion ",
+            "c": "puerperal sepsis",
+            "d": "post-partum hemorrhage "
+        },
+        "8": {
+            "a": "Blood",
+            "b": "saliva",
+            "c": "semen",
+            "d": "CSF "
+        },
+        "9": {
+            "a": "10 gm/dl",
+            "b": "11 gm/dl",
+            "c": "12gm/dl",
+            "d": "9gm/dl"
+        },
+        "10": {
+            "a": "<1 year",
+            "b": "5 - 15 years",
+            "c": "6 month-59 months",
+            "d": "0 - 5 years"
+        },
+        "11": {
+            "a": "Clubbing ",
+            "b": "cachectic ",
+            "c": "cyanosis",
+            "d": "Anemia "
+        },
+        "12": {
+            "a": "Anemia",
+            "b": "Marasmus ",
+            "c": "Kwashiorkor",
+            "d": "Xerophthalmia "
+        },
+        "13": {
+            "a": "A fine cut due to sharp object",
+            "b": "irregular type of injury caused by blunt object",
+            "c": "A deep but fine cut injury",
+            "d": "none"
+        },
+        "14": {
+            "a": "45 ",
+            "b": "55 ",
+            "c": "65 ",
+            "d": "70 "
+        },
+        "15": {
+            "a": "gametocytes ",
+            "b": "sporozoites",
+            "c": "Merozoites ",
+            "d": "cryptozoites"
+        },
+        "16": {
+            "a": "1978",
+            "b": "1988 ",
+            "c": "1998",
+            "d": "1968 "
+        },
+        "17": {
+            "a": "plasma cells",
+            "b": "B-lymphocytes",
+            "c": "T-lymphocytes",
+            "d": "Neutrophil"
+        },
+        "18": {
+            "a": "Kala-azar ",
+            "b": "malaria ",
+            "c": "Rabies ",
+            "d": "Trench fever "
+        },
+        "19": {
+            "a": "1- 7 September",
+            "b": "1-7 August",
+            "c": "1-7 October",
+            "d": "20 - 27 June"
+        },
+        "20": {
+            "a": "Rate + Ratio",
+            "b": "Ratio",
+            "c": "Proportion",
+            "d": "None"
+        },
+        "21": {
+            "a": "Management of case",
+            "b": "use of insecticide ",
+            "c": "environmental sanitation",
+            "d": "use of mosquito net chemical treated"
+        },
+        "22": {
+            "a": "Aldehyde test",
+            "b": "Combo test",
+            "c": "Casoni lest",
+            "d": "None of the above"
+        },
+        "23": {
+            "a": "use antibiotics",
+            "b": "through washing",
+            "c": "stop bleeding",
+            "d": "suturing"
+        },
+        "24": {
+            "a": "Remittent ",
+            "b": "Stepladder ",
+            "c": "Intermittent ",
+            "d": "None "
+        },
+        "25": {
+            "a": "1-3",
+            "b": "5",
+            "c": "As required",
+            "d": "4-5"
+        },
+        "26": {
+            "a": "every year",
+            "b": "every 4 month",
+            "c": "every month",
+            "d": "every 6 month"
+        },
+        "27": {
+            "a": "vitamin A deficiency",
+            "b": "Iodine deficiency",
+            "c": " Iron deficiency anemia",
+            "d": "None of the above"
+        },
+        "28": {
+            "a": "DDT & pyrethroid ",
+            "b": "DDT only",
+            "c": "Pyrethroid only",
+            "d": "none of the above"
+        },
+        "29": {
+            "a": "abortion ",
+            "b": "Smoking",
+            "c": "Anemia ",
+            "d": "prolonged labor"
+        },
+        "30": {
+            "a": "To achieve 70% tase detection rate",
+            "b": " To cure 85% of the cases",
+            "c": "To decrease death rate by 50%",
+            "d": "To achieve 80% smear conversion rate "
+        },
+        "31": {
+            "a": "+20 - +28°C",
+            "b": "-2- 5°C",
+            "c": "+2 - +8°",
+            "d": "Room temperature"
+        },
+        "32": {
+            "a": "unmarried ",
+            "b": "<19 yrs. &> 35 years women",
+            "c": ">4 ft. women",
+            "d": "Human having more than 4 child"
+        },
+        "33": {
+            "a": "incidence rate is > 1/10000",
+            "b": "Prevalence rate is > 1/10000",
+            "c": "Disability rate is > 1/10000",
+            "d": "case determination rate is > 1/10000"
+        },
+        "34": {
+            "a": "28",
+            "b": "33",
+            "c": "47",
+            "d": "65"
+        },
+        "35": {
+            "a": "Family planning advices",
+            "b": "Permanent sterilization ",
+            "c": "ANC service",
+            "d": "PNC service"
+        },
+        "36": {
+            "a": "M.O",
+            "b": "staff nurse",
+            "c": "Auxiliary wife",
+            "d": "AHW"
+        },
+        "37": {
+            "a": "Culex",
+            "b": "female anopheles",
+            "c": "male anophele",
+            "d": "Aedes"
+        },
+        "38": {
+            "a": "Gametocytes ",
+            "b": "Hypnozoites",
+            "c": "both a &b  ",
+            "d": " none "
+        },
+        "39": {
+            "a": "24 hrs.",
+            "b": "48 hrs.",
+            "c": "96 hrs.",
+            "d": "72 hrs."
+        },
+        "40": {
+            "a": "open I/V line",
+            "b": "use antibiotics",
+            "c": " stop bleeding",
+            "d": "Assess airway & breathing "
+        },
+        "41": {
+            "a": "Nausea & vomiting",
+            "b": "Cold skin & weak pulse",
+            "c": "Moist & clammy skin",
+            "d": "low blood pressure"
+        },
+        "42": {
+            "a": "ear pain",
+            "b": "Vertigo",
+            "c": "discharge",
+            "d": "tinnitus"
+        },
+        "43": {
+            "a": "To bring wanted birth ",
+            "b": "Gender equality",
+            "c": " To space between births",
+            "d": "To determine the number of children"
+        },
+        "44": {
+            "a": "History taking",
+            "b": " Radiographic examination",
+            "c": "Auscultation",
+            "d": "lab test examination"
+        },
+        "45": {
+            "a": " Male condoms",
+            "b": "Depo-Provera",
+            "c": "sterilization",
+            "d": "Norplant"
+        },
+        "46": {
+            "a": "left/ Right thigh",
+            "b": "Right arm",
+            "c": "left arm",
+            "d": "right arm"
+        },
+        "47": {
+            "a": "675 ml",
+            "b": "375 ml",
+            "c": "900 ml",
+            "d": "475 ml"
+        },
+        "48": {
+            "a": "every 3 month",
+            "b": "every month",
+            "c": "every 15 days",
+            "d": "every 4 month"
+        },
+        "49": {
+            "a": "liver ",
+            "b": "pancreas ",
+            "c": " spleen",
+            "d": "stomach "
+        },
+        "50": {
+            "a": "Normal saline",
+            "b": "Normal solution",
+            "c": "Noral salt",
+            "d": "None"
+        }
+
+
+    },
+    {
+        "1": "Dumping",
+        "2": "150",
+        "3": "Congential anamoly",
+        "4": "sewage",
+        "5": "causative agent",
+        "6": "cretinism",
+        "7": "type",
+        "8": "saliva",
+        "9": "11 gm/dl",
+        "10": "6 month-59 months",
+        "11": "cyanosis",
+        "12": "Kwashiorkor",
+        "13": "irregular type of injury caused by blunt object",
+        "14": "65 ",
+        "15": "sporozoites",
+        "16": "1988 ",
+        "17": "T-lymphocytes",
+        "18": "Rabies ",
+        "19": "1-7 August",
+        "20": "Ratio",
+        "21": "Management of case",
+        "22": "Aldehyde test",
+        "23": "through washing",
+        "24": "Stepladder ",
+        "25": "1-3",
+        "26": "every 4 month",
+        "27": " Iron deficiency anemia",
+        "28": "Pyrethroid only",
+        "29": "prolonged labor",
+        "30": "To achieve 80% smear conversion rate ",
+        "31": "+2 - +8°",
+        "32": ">4 ft. women",
+        "33": "Prevalence rate is > 1/10000",
+        "34": "28",
+        "35": "Permanent sterilization ",
+        "36": "Auxiliary wife",
+        "37": "female anopheles",
+        "38": "both a &b  ",
+        "39": "72 hrs.",
+        "40": "use antibiotics",
+        "41": "Nausea & vomiting",
+        "42": "ear pain",
+        "43": "Gender equality",
+        "44": "Auscultation",
+        "45": "sterilization",
+        "46": "left/ Right thigh",
+        "47": "675 ml",
+        "48": "every month",
+        "49": "pancreas ",
+        "50": "Normal saline"
+
+    }
+]

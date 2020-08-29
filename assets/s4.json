@@ -1,0 +1,411 @@
+[
+    {
+        "1": "Which bandage is used in clavical fracture?",
+        "2": "Erythematous burn is normally caused by: ?",
+        "3": "The most effective skin antiseptic is:?",
+        "4": "Which is the commonest area of anterior epistaxis? ?",
+        "5": "The major role in maintaining fluid balance in the body is performed by the: ?",
+        "6": "The prostrusion of some of the contents of the abdomen through a weakness in the abdominal wall is called:?",
+        "7": "Trachoma is more common in:?",
+        "8": "Which artery does not belong external carotid artery in the human body?",
+        "9": "Which is the following reason of Mental Disease??",
+        "10": "At birth the length of the baby measures about",
+        "11": "The most appropriate age group to become pregnancy for woman is",
+        "12": "What is the total fertility rate as per Nepal Demographic and Health Survey2011?",
+        "13": "What is the % of deliveries attended by Skilled Birth Attendant (SBA) at health facilities among estimated number of pregnancies during 2067/68 as per DOHS Annual Report?",
+        "14": "What is the main objective of the Health Service Act 2053 and Regulation 2055??",
+        "15": " Withdrawal symptom of tobacco includes?",
+        "16": "Government employee get sick leave in a year:?",
+        "17": "World wide major route of transmission of AIDS?",
+        "18": " Which is the target group for immunization programme?",
+        "19": " HIV AIDS and STD can prevented from the following methods:?",
+        "20": "Which of the following is not the strategy of HIV/AIDs control in Nepal?",
+        "21": " HMIS means:?",
+        "22": " The web-based LMIS system was initiated by LMD since:?",
+        "23": " The contraceptive of choice for a newly married couple is: ?",
+        "24": "Who will be responsible for running the sub-health post programmes and activities in the VDC?",
+        "25": "The 8th global health promotion conference conducted in 2013 had the main theme as:?",
+        "26": "When was the first national health day in Nepal celebrated?",
+        "27": "What is the full form of FCHV??",
+        "28": "Who will take benefits from the free drug service?",
+        "29": "Dots program was firstly implementedin ..... Nepal.?",
+        "30": "The incubation period of rabies is commonly around:?",
+        "31": "Enteric fever is caused by:?",
+        "32": "Diseases which are amenable to eradication are all except?",
+        "33": "Epidemiological triad includes:?",
+        "34": "Which of the following is not prevention/control of typhoid fever?",
+        "35": "'Epidemic' means:",
+        "36": "Visual inspection with acetic aic (VIA) is related to",
+        "37": "Albendazole and diethyl Carbamazine medicine is provided to prevent filarial with a dose ....... for 6 to 14 yrs. is:",
+        "38": " Which is the most common benefit of water seal latrine?",
+        "39": "What temperature is needed in pasteurization of milk",
+        "40": "1 pint blood is equal to ",
+        "41": "Highest Source of vutamin C",
+        "42": "Who recognized the road to health chart",
+        "43": "DPT vaccine is given for preventing for:",
+        "44": "What is the Infant Mortality Rate Nepal Demographic and Health Survey  2011?",
+        "45": "Which vaccine is most heat sensitive among followings?",
+        "46": "IMCI stands for:?",
+        "47": "Clinical feature of severe pneumonia is?",
+        "48": "Which fever of the body temperature rises and falls to normal every day? ?",
+        "49": "Which of the following is food borne disease due to the toxin produce by bacteria?",
+        "50": "The blood pressure in acute peritonitis is?"
+    },
+    {
+        "1": {
+            "a": "figure '8' typed",
+            "b": "head and foot bandage",
+            "c": "roller ",
+            "d": "trangular "
+        },
+        "2": {
+            "a": "fire burn",
+            "b": "water burn",
+            "c": "sun burn",
+            "d": "acid burn"
+        },
+        "3": {
+            "a": "Dettol ",
+            "b": "alcohol ",
+            "c": "hexachlorophene ",
+            "d": "alcohol solution of chlorhexidine"
+        },
+        "4": {
+            "a": "little's area",
+            "b": "wood drugs",
+            "c": "posterior-superior part",
+            "d": "anterior superior part"
+        },
+        "5": {
+            "a": "liver",
+            "b": "heart ",
+            "c": "lungs",
+            "d": "kidney "
+        },
+        "6": {
+            "a": "hydrocele ",
+            "b": "hematoma ",
+            "c": "GI bleeding",
+            "d": "hernia "
+        },
+        "7": {
+            "a": "Biratnagar ",
+            "b": "Dharan ",
+            "c": "Nepalgunj ",
+            "d": "Pokhara"
+        },
+        "8": {
+            "a": "Occipital artery",
+            "b": " Temporal artery",
+            "c": "Ophthalmic artery",
+            "d": "Facial artery"
+        },
+        "9": {
+            "a": "Change in mind",
+            "b": "Heredity and bad impact experience in childhood",
+            "c": " Poor family relationship and life style",
+            "d": "all of the above "
+        },
+        "10": {
+            "a": "30cm",
+            "b": "40cm ",
+            "c": "50cm",
+            "d": "60 cm"
+        },
+        "11": {
+            "a": "15-20 years",
+            "b": "20-25 years ",
+            "c": "25-30 years",
+            "d": "35-40 years"
+        },
+        "12": {
+            "a": "2.6",
+            "b": "3.0",
+            "c": "4.6",
+            "d": "4.1"
+        },
+        "13": {
+            "a": "21%",
+            "b": "26%",
+            "c": "31%",
+            "d": "37%"
+        },
+        "14": {
+            "a": " To reduce health manpower",
+            "b": "To increase the health budget",
+            "c": "To provide preventive health services ",
+            "d": "To provide equal opportunities for health professional in all level"
+        },
+        "15": {
+            "a": "tremor",
+            "b": "Excessive appetite",
+            "c": "Happiness",
+            "d": "Impaired memory"
+        },
+        "16": {
+            "a": "30 days/annum",
+            "b": "180 days/annum",
+            "c": "12 days/annum",
+            "d": "9 days/annum"
+        },
+        "17": {
+            "a": "Heterosexual transmission",
+            "b": "Needle sharing by I.V. drug users",
+            "c": "Mother to child",
+            "d": "Blood transfusion"
+        },
+        "18": {
+            "a": "Under five year's children",
+            "b": "Under one year's children",
+            "c": "Under ten year's children",
+            "d": "Up to 40 years"
+        },
+        "19": {
+            "a": "dep-provera ",
+            "b": "Condom",
+            "c": "Copper T",
+            "d": "Norplant"
+        },
+        "20": {
+            "a": "Prevention of sexual transmission",
+            "b": "Prevention of transmission through blood",
+            "c": "Collection of HIV infected persons",
+            "d": "Prevention of perinatal transmission "
+        },
+        "21": {
+            "a": "Health Management in Taking Symptoms ",
+            "b": "Health Make-up Including Symptoms",
+            "c": "Health Management Indoor System ",
+            "d": " Health Management Information System"
+        },
+        "22": {
+            "a": "2001",
+            "b": "2005 ",
+            "c": "2010 ",
+            "d": "2008"
+        },
+        "23": {
+            "a": "TYCD",
+            "b": "OCP ",
+            "c": "Abstinence",
+            "d": "condom"
+        },
+        "24": {
+            "a": "Doctor",
+            "b": "ANM",
+            "c": "AHMW",
+            "d": "Nurse"
+        },
+        "25": {
+            "a": "Promoting health & development closing the implementation gap",
+            "b": "Bring the quality gap",
+            "c": "Health in all policies",
+            "d": "New players for a new era-leading"
+        },
+        "26": {
+            "a": "12 Falgun 2069 ",
+            "b": "15 Falgun 2069",
+            "c": "17 Falgun 2069",
+            "d": "26 Falgun 2069"
+        },
+        "27": {
+            "a": "Female Cardiac Health volunteer ",
+            "b": "Female care Health Volunteer",
+            "c": "Female Community Health Volunteer",
+            "d": "Female Child Health Volunteer"
+        },
+        "28": {
+            "a": "All staffs of the health institution",
+            "b": "All people in the community",
+            "c": "Political parties in the community",
+            "d": "Medical shops in the communities"
+        },
+        "29": {
+            "a": "1995 AD",
+            "b": "1996 AD",
+            "c": "2000 AD",
+            "d": "2001 AD"
+        },
+        "30": {
+            "a": "10-15 day",
+            "b": "3-8 weeks",
+            "c": "2-3 months",
+            "d": "3-6 months"
+        },
+        "31": {
+            "a": "Salmonella Typhi",
+            "b": "S. paratyphi A",
+            "c": "S.paratyphi B ",
+            "d": "all of the above"
+        },
+        "32": {
+            "a": "Measles",
+            "b": "Polio ",
+            "c": "Diphtheria",
+            "d": "Tetanus "
+        },
+        "33": {
+            "a": "Agent ",
+            "b": "Host ",
+            "c": "Environment ",
+            "d": "All of the above"
+        },
+        "34": {
+            "a": " Immunization",
+            "b": "Effective treatment",
+            "c": "Health education",
+            "d": "Examination of blood sample"
+        },
+        "35": {
+            "a": "An occurance of any disease in any place & time and causes death.",
+            "b": "To identify more number of cases in any place and time",
+            "c": "An occurrence in a community or region of number of cases of a disease unusually large or unexpected number.",
+            "d": "Too difficult in controlling infectious"
+        },
+        "36": {
+            "a": "Cancer screening",
+            "b": "Laboratory test",
+            "c": "Health examination",
+            "d": "Quality control measure"
+        },
+        "37": {
+            "a": "Alb 400 mg 1 tab+Dec 100 mg 2 tab ",
+            "b": " Alb 400 mg 1 tab + Dec 100 mg 1 tab",
+            "c": "Alb 400 mg 2 tab + Dec 100 mg 2 tab",
+            "d": " Alb 400 mg Itab + Dec 100 mg 3 tab"
+        },
+        "38": {
+            "a": "it can be built at home",
+            "b": "it prevents from fly breeding",
+            "c": "It is most hygenic",
+            "d": "child get benefits"
+        },
+        "39": {
+            "a": "66° C for 15 minute",
+            "b": "72°C for 15 minute",
+            "c": " 66° C for 30 minutes",
+            "d": "72°C for 30 minute"
+        },
+        "40": {
+            "a": "400",
+            "b": "450",
+            "c": "480",
+            "d": "600"
+        },
+        "41": {
+            "a": "orange",
+            "b": "amla",
+            "c": "apple",
+            "d": "grapes"
+        },
+        "42": {
+            "a": "WHO",
+            "b": "UNICEF",
+            "c": "David Morley",
+            "d": "UNSCEO"
+        },
+        "43": {
+            "a": " Diphtheria and Tetanus",
+            "b": "Diphtheria, Typhoid and Polio",
+            "c": " Diphtheria, typhoid and Tetanus",
+            "d": "Diphtheria, Tetanus and Whooping cough"
+        },
+        "44": {
+            "a": " 64/1000 live births",
+            "b": "61/1000 live births",
+            "c": "54/1000 live births",
+            "d": " 46/1000 live birth"
+        },
+        "45": {
+            "a": "Yellow feve",
+            "b": "Influenza ",
+            "c": "Hepatitis B",
+            "d": "Polio "
+        },
+        "46": {
+            "a": "Integrated Medicine and Care of Illnes",
+            "b": " Intensify Management Care of Illness",
+            "c": " International Management of Children Illness",
+            "d": "Integrated Management of Childhood Illness"
+        },
+        "47": {
+            "a": "Cyanosis ",
+            "b": " Chest indrawing",
+            "c": " Low body temperature",
+            "d": "All of the above"
+        },
+        "48": {
+            "a": "Constant feve",
+            "b": "Remittent fever",
+            "c": "Intermittent fever",
+            "d": "Relapsing fever"
+        },
+        "49": {
+            "a": "Aflatoxin",
+            "b": "Lathyrism",
+            "c": "Botulism",
+            "d": "all of above"
+        },
+        "50": {
+            "a": "costant",
+            "b": "low",
+            "c": "high",
+            "d": "very high"
+        }
+
+    },
+    {
+        "1": "figure '8' typed",
+        "2": "sun burn",
+        "3": "alcohol solution of chlorhexidine",
+        "4": "little's area",
+        "5": "kidney ",
+        "6": "hernia ",
+        "7": "Nepalgunj ",
+        "8": "Ophthalmic artery",
+        "9": "all of the above ",
+        "10": "50cm",
+        "11": "20-25 years ",
+        "12": "4.6",
+        "13": "31%",
+        "14": "To provide equal opportunities for health professional in all level",
+        "15": "Excessive appetite",
+        "16": "12 days/annum",
+        "17": "Heterosexual transmission",
+        "18": "Under one year's children",
+        "19": "Condom",
+        "20": "Collection of HIV infected persons",
+        "21": " Health Management Information System",
+        "22": "2008",
+        "23": "OCP ",
+        "24": "ANM",
+        "25": "Health in all policies",
+        "26": "15 Falgun 2069",
+        "27": "Female Community Health Volunteer",
+        "28": "All people in the community",
+        "29": "1996 AD",
+        "30": "3-8 weeks",
+        "31": "all of the above",
+        "32": "Tetanus ",
+        "33": "All of the above",
+        "34": "Examination of blood sample",
+        "35": "An occurrence in a community or region of number of cases of a disease unusually large or unexpected number.",
+        "36": "Cancer screening",
+        "37": "Alb 400 mg 1 tab+Dec 100 mg 2 tab ",
+        "38": "it prevents from fly breeding",
+        "39": "72°C for 15 minute",
+        "40": "480",
+        "41": "amla",
+        "42": "David Morley",
+        "43": "Diphtheria, Tetanus and Whooping cough",
+        "44": " 46/1000 live birth",
+        "45": "Polio ",
+        "46": "Integrated Management of Childhood Illness",
+        "47": "All of the above",
+        "48": "Intermittent fever",
+        "49": "Botulism",
+        "50": "low"
+       
+
+    }
+]

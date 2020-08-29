@@ -1,0 +1,412 @@
+[
+    {
+        "1": "Secondary attack rate of Mumps is ?",
+        "2": "MMR vaccine prevents form?",
+        "3": "Schick test is done in which disease?",
+        "4": "In chicken pox, rashes appear in........?by if Fever appearance",
+        "5": "Pleomorphic rashes is characteristics of?",
+        "6": "In measles, koplik spot, seem in which stage?",
+        "7": "Which disease is also known as 3P disease?",
+        "8": "Incubation period of measles?",
+        "9": "For multibacillary leprosy all drug are given except?",
+        "10": "Bacterial index -3 is taken as?",
+        "11": "Complication of streptomycin is?",
+        "12": "All of following ATT drug are bacterial except?",
+        "13": "case fetality rate of rabies:",
+        "14": "Infective stage of round worm",
+        "15": "Chronic carrier stage of cholera may last up to?",
+        "16": "World health day is celebrate in ?",
+        "17": "Headquater of WHO is in?",
+        "18": "Dengue causing Aedes mosquito when become infected continue transmitting disease for?",
+        "19": "MDA for L filariasis stopped in 2067/68 in  .... Districts ?",
+        "20": "Insecticide used for IRS of Kalazaar in nepal",
+        "21": "GATHER approach is useful for?",
+        "22": "Contraindication of Chloroquine Are all except?",
+        "23": " Man is a dead end host for which disease?",
+        "24": " Ist public health program started in Nepal in?",
+        "25": " What is causative organism of malaria ?",
+        "26": "DEC is effective against?",
+        "27": "HIV/AIDS is now concentrated epidemic in Nepal, it means.?",
+        "28": "In 2069/70, which districts has highest prevalence of leprosy?",
+        "29": "DOTS Plus (MDRTB) program started  in?",
+        "30": "1st case of Dengue reported in Nepal in?",
+        "31": "Incubation period of JE is ?",
+        "32": "GoN targeted to eliminate L filariasis by?",
+        "33": "Most important carrier of kala-azar is:?",
+        "34": "MDA of malaria is done, when API?",
+        "35": "All of following steps fall in epidem control except?",
+        "36": "Which method is used for HIV post-test counseling? ?",
+        "37": "Current neonatal mortality of Nepal is?",
+        "38": "Total number of pustules in LBI is ?",
+        "39": "39. Full from of CMAM is?",
+        "40": "School health & nutrition week celebrated in ?",
+        "41": "In Nepal Immunization started with?",
+        "42": "Hib vaccine protects from ?",
+        "43": "PHC/ORC clinics should be?",
+        "44": "Which method is most commonly used (accepted) in Nepal??",
+        "45": "Implant instead of Norplant, introduced in Nepal from?",
+        "46": "For 500000 population, how many obstetric service site required??",
+        "47": " MMR target of MDG by 2015 is .... per 100,000?",
+        "48": "Where is the maximum maternal health occurs in Nepal?",
+        "49": "BEOC service includes all except?",
+        "50": "One CYP equals to all except?"
+    },
+    {
+        "1": {
+            "a": "80%",
+            "b": "86%",
+            "c": "90%",
+            "d": "95%"
+        },
+        "2": {
+            "a": "Measles, mumps, Rubella",
+            "b": "Rubeola, Measles, Meningitis",
+            "c": "Rubeola, Mumps, German measles",
+            "d": "None"
+        },
+        "3": {
+            "a": "Pertussis",
+            "b": "Diphtheria",
+            "c": "Whooping cough",
+            "d": "Isoniazid"
+        },
+        "4": {
+            "a": "2nd day",
+            "b": "same day",
+            "c": "4th day",
+            "d": "3rd day "
+        },
+        "5": {
+            "a": "Measles",
+            "b": "mumps",
+            "c": "Rubella",
+            "d": "varicella"
+        },
+        "6": {
+            "a": "prodormal",
+            "b": "Eruptive",
+            "c": "post measles stage",
+            "d": "not seen"
+        },
+        "7": {
+            "a": "measles",
+            "b": "Diabetes incipidus",
+            "c": "diabetes mellitus",
+            "d": "pellagera"
+        },
+        "8": {
+            "a": "2-6 days",
+            "b": "4 days",
+            "c": "10-14 days",
+            "d": "2-3 week"
+        },
+        "9": {
+            "a": "Rifampicin",
+            "b": "Dapsone",
+            "c": "Streptomycin",
+            "d": "Isoniazid "
+        },
+        "10": {
+            "a": "pauci-bacillary leprosy",
+            "b": "multi-bacillary leprosy",
+            "c": "multiple drug",
+            "d": "all of above"
+        },
+        "11": {
+            "a": "peripheral nuritis",
+            "b": "ototoxicity",
+            "c": "optic neuritis",
+            "d": "hepatitis"
+        },
+        "12": {
+            "a": " Pyrazinamide",
+            "b": "Ethambutol",
+            "c": "Streptomycin",
+            "d": "Isoniazid"
+        },
+        "13": {
+            "a": "95%",
+            "b": "90% ",
+            "c": "99%",
+            "d": "100%"
+        },
+        "14": {
+            "a": "Filariform larva ",
+            "b": "Third stage larva",
+            "c": "Cysticercus cellulose ",
+            "d": "Embryonated egg"
+        },
+        "15": {
+            "a": "1 year",
+            "b": "5 year",
+            "c": "6 year",
+            "d": "10 year"
+        },
+        "16": {
+            "a": "14 april",
+            "b": "7th april",
+            "c": "2nd april",
+            "d": "1st april"
+        },
+        "17": {
+            "a": "USA",
+            "b": "UK",
+            "c": "UAE",
+            "d": "Switzerland"
+        },
+        "18": {
+            "a": "10 days",
+            "b": "20 days",
+            "c": "5 days",
+            "d": "Life time"
+        },
+        "19": {
+            "a": "10",
+            "b": "15",
+            "c": "5",
+            "d": "20"
+        },
+        "20": {
+            "a": " DDT",
+            "b": "alpha-cypermethrin ",
+            "c": "BHC",
+            "d": "carbaryl"
+        },
+        "21": {
+            "a": "Chlorination of water",
+            "b": "Refuse disposal ",
+            "c": "FP counselling",
+            "d": "None"
+        },
+        "22": {
+            "a": "Epilepsy",
+            "b": "psoriasis ",
+            "c": "G6PD deficiency",
+            "d": " Hypersensitivity"
+        },
+        "23": {
+            "a": "Malaria",
+            "b": "JE ",
+            "c": "rabies",
+            "d": "both b&c"
+        },
+        "24": {
+            "a": "1954",
+            "b": "1958 ",
+            "c": "1978",
+            "d": "1998 "
+        },
+        "25": {
+            "a": "Anopheles",
+            "b": "Culex ",
+            "c": "Plasmodium",
+            "d": "Yersinia "
+        },
+        "26": {
+            "a": "Adult worm",
+            "b": "Infective",
+            "c": "Microfilaria",
+            "d": "all of above "
+        },
+        "27": {
+            "a": "HIV> 5% in any sub group of high risk behavior ",
+            "b": " HIV>1% in any women attending for ANC",
+            "c": "HIV<1% in any women attending for ANC",
+            "d": "both a &c"
+        },
+        "28": {
+            "a": "Bardia ",
+            "b": "Banke",
+            "c": "Sarlahi ",
+            "d": "Dhanusha "
+        },
+        "29": {
+            "a": "Sep. 2001",
+            "b": "Sep. 2009",
+            "c": "Sep. 2005",
+            "d": "April 2001"
+        },
+        "30": {
+            "a": "2002",
+            "b": "2004 ",
+            "c": "2003",
+            "d": "2005 "
+        },
+        "31": {
+            "a": "1-5 days",
+            "b": "5-10 days",
+            "c": "5-15 days",
+            "d": "10-20 days"
+        },
+        "32": {
+            "a": "2015",
+            "b": "2017 ",
+            "c": "2020",
+            "d": " not targeted to eliminate"
+        },
+        "33": {
+            "a": "Kala-azar case",
+            "b": "Sand-fly",
+            "c": "Cutaneous leishmaniasis",
+            "d": "PKDL "
+        },
+        "34": {
+            "a": "more than 2/1000 population",
+            "b": "more than 5/1000 population",
+            "c": "more than 10/1000 population",
+            "d": "more than 1/1000 population"
+        },
+        "35": {
+            "a": "Treatment of case",
+            "b": " prevention of further spread",
+            "c": "monitoring of effects of control Measures",
+            "d": "supervision of effects of control Measures"
+        },
+        "36": {
+            "a": "individual approach ",
+            "b": "group approach",
+            "c": " mass media",
+            "d": "All"
+        },
+        "37": {
+            "a": "54/1000 live births",
+            "b": "46/1000 live births",
+            "c": "33/1000 live births",
+            "d": "13/1000 live births "
+        },
+        "38": {
+            "a": ">10",
+            "b": "10-15",
+            "c": "<5",
+            "d": "<10 "
+        },
+        "39": {
+            "a": "Chronic malaria management",
+            "b": "Childhood management of acute malaria",
+            "c": "Community based management of acute malnutrition",
+            "d": "None of above"
+        },
+        "40": {
+            "a": "Aug. 1-7",
+            "b": "Paush 1-7 ",
+            "c": "Baisakh 1-7",
+            "d": "Jestha 1-7"
+        },
+        "41": {
+            "a": "2 antigen",
+            "b": "3 antigen",
+            "c": "4 antigen",
+            "d": "5 antigen"
+        },
+        "42": {
+            "a": "Influenza",
+            "b": "pneumonia ",
+            "c": "Meningitis ",
+            "d": "both b&c "
+        },
+        "43": {
+            "a": "3-5 clinic/VDC/month",
+            "b": "2-5 clinic/VCD/week",
+            "c": "3-5 clinic/VCD/ week",
+            "d": "1-3 clinic/VDC/month"
+        },
+        "44": {
+            "a": "Depo ",
+            "b": "pills",
+            "c": "IUCD ",
+            "d": "Male sterilization"
+        },
+        "45": {
+            "a": "2005",
+            "b": "2003 ",
+            "c": "2009",
+            "d": "2010 "
+        },
+        "46": {
+            "a": "4 BEOC",
+            "b": "2 CEOC",
+            "c": "1 CEOC ",
+            "d": "both a &c"
+        },
+        "47": {
+            "a": "170",
+            "b": "134",
+            "c": "229",
+            "d": "150"
+        },
+        "48": {
+            "a": "Home",
+            "b": "health institution",
+            "c": "on the way ",
+            "d": "None"
+        },
+        "49": {
+            "a": "Forcep delivery",
+            "b": "safe abortion service ",
+            "c": " manual removal of placenta",
+            "d": "post abortion care "
+        },
+        "50": {
+            "a": "4 dose Depo",
+            "b": "150 condoms",
+            "c": "12 pills cycle",
+            "d": "13 pills cycle"
+        }
+
+
+    },
+    {
+        "1": "86%",
+        "2": "Rubeola, Mumps, German measles",
+        "3": "Diphtheria",
+        "4": "same day",
+        "5": "varicella",
+        "6": "prodormal",
+        "7": "diabetes mellitus",
+        "8": "10-14 days",
+        "9": "Isoniazid ",
+        "10": "multi-bacillary leprosy",
+        "11": "ototoxicity",
+        "12": "Ethambutol",
+        "13": "100%",
+        "14": "Embryonated egg",
+        "15": "10 year",
+        "16": "7th april",
+        "17": "Switzerland",
+        "18": "Life time",
+        "19": "5",
+        "20": "alpha-cypermethrin ",
+        "21": "FP counselling",
+        "22": "deG6PD deficiencyf",
+        "23": "both b&c",
+        "24": "1958 ",
+        "25": "Plasmodium",
+        "26": "Microfilaria",
+        "27": "both a &c",
+        "28": "Sarlahi ",
+        "29": "Sep. 2005",
+        "30": "2004 ",
+        "31": "5-15 days",
+        "32": "2020",
+        "33": "PKDL ",
+        "34": "more than 5/1000 population",
+        "35": "supervision of effects of control Measures",
+        "36": "individual approach ",
+        "37": "33/1000 live births",
+        "38": "<10 ",
+        "39": "Community based management of acute malnutrition",
+        "40": "Jestha 1-7",
+        "41": "4 antigen",
+        "42": "both b&c ",
+        "43": "1-3 clinic/VDC/month",
+        "44": "Depo ",
+        "45": "2009",
+        "46": "both a &c",
+        "47": "134",
+        "48": "health institution",
+        "49": "safe abortion service ",
+        "50": "12 pills cycle"
+       
+
+    }
+]

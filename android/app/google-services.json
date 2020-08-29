@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1041457474085",
+    "firebase_url": "https://loksewaha.firebaseio.com",
+    "project_id": "loksewaha",
+    "storage_bucket": "loksewaha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041457474085:android:f299e8375ddb9261272dcc",
+        "android_client_info": {
+          "package_name": "np.bvk.loksewahacma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041457474085-biosrf8oj0801ht4sfodi48lo5e681cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr8HdmLbN16jQivloReTM7MiPLfTVyiZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041457474085-biosrf8oj0801ht4sfodi48lo5e681cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,414 @@
+[
+    {
+       
+        "1": "Head circumference chest circumference become equal a?",
+        "2": "Which is associated with risk of cerebral palsy? ?",
+        "3": "For Asphyxed child (baby) we should give?",
+        "4": "Case fatality rate (CFR) is?",
+        "5": "Contraceptive prevalence rate (CPR) is ?",
+        "6": "Unit of study is individual in all study except ?",
+        "7": "Man is dead end host for",
+        "8": "Negri bodies is seen in which disease??",
+        "9": "Yellow fever is transmitted by?",
+        "10": "Kala-azar is also known as?",
+        "11": "Fever comes in every 3rd day in all except?",
+        "12": "Man is definitive host for all except?",
+        "13": "Polio virus transmission do not occurs through ",
+        "14": "Which fly don't bite",
+        "15": "Relationship between prevalence & Incidence is",
+        "16": "Food poisoning is an example of",
+        "17": "Amino acid essential for adult are ",
+        "18": "100ml of milk gives .....?",
+        "19": "Biologically complete protein is?",
+        "20": "Wasting means ...?",
+        "21": " Most commonly used method of nutritional assessment?",
+        "22": "Marasmus is common in?",
+        "23": "Kwashiorkor is due to deficiency of?",
+        "24": "Richest source of vitamin A is?",
+        "25": " Vitamin E is also known as?",
+        "26": "Megaloblastic anaemia is due to deficiency?",
+        "27": "Which diet should not take with tablet?",
+        "28": "Milk is deficient in?",
+        "29": "Organ of corti is part of?",
+        "30": "Most common symptom of inner ear disease?",
+        "31": "Wax is secreted by?",
+        "32": "Syringing of ear is not done in all except?",
+        "33": "Commonest cause of ASOM in children is?",
+        "34": "Complication of which disease do not cause ASOM?",
+        "35": "Which of following is not true about ASOM ?",
+        "36": "Which of following is not considered as air pollutants?",
+        "37": "Which is appropriate for small camp?",
+        "38": "Pyrrolizidine alkaloids can cause?",
+        "39": "Aflatoxin is a?",
+        "40": "Epidemic dropsy is due to consumption of?",
+        "41": "Telemedicine program in 2065/66, implemented in ?",
+        "42": "Commonest organism of furuncle is?",
+        "43": " Ring worm is caused by ?",
+        "44": "Commonest tinea infection is?",
+        "45": "Itching in scabies is worsen?",
+        "46": "For treatment of scabies, permethrin concentration given is?",
+        "47": "Herpes zoster virus can cause?",
+        "48": " Dermatitis common in HIV patient is?",
+        "49": "coin shaped eruption is seen in which drug ?",
+        "50": "We hear sound by?"
+    },
+    {
+        "1": {
+            "a": " 6 month",
+            "b": "2 year",
+            "c": " 8 month ",
+            "d": "1 year"
+        },
+        "2": {
+            "a": "APGAR score 0-3 at 1 min",
+            "b": " APGAR score 0-3 at 5 min ",
+            "c": "APGAR score 0-3 at 15 min",
+            "d": "both a &b "
+        },
+        "3": {
+            "a": " 20 breaths per min",
+            "b": "20 breath per 30 second",
+            "c": "30 breath per min",
+            "d": ". 30 breath per 30 second "
+        },
+        "4": {
+            "a": "Rate",
+            "b": "ratio ",
+            "c": "proportion",
+            "d": "none "
+        },
+        "5": {
+            "a": "Rate",
+            "b": "ratio ",
+            "c": "proportion",
+            "d": "none "
+        },
+        "6": {
+            "a": "Cohort study",
+            "b": "case control study",
+            "c": "cross sectional study",
+            "d": "ecological study"
+        },
+        "7": {
+            "a": "Rabies",
+            "b": "Tetanus ",
+            "c": "JE",
+            "d": "all of above "
+        },
+        "8": {
+            "a": "Poliomyelitis ",
+            "b": "Tetanus ",
+            "c": "Rabies",
+            "d": "all of above"
+        },
+        "9": {
+            "a": "Anopheles ",
+            "b": "Culex ",
+            "c": "Aedes",
+            "d": "Mansonia"
+        },
+        "10": {
+            "a": "Black sickness ",
+            "b": "camel hump fever ",
+            "c": "V. leishmaniasis",
+            "d": "all of above"
+        },
+        "11": {
+            "a": "P. vivax",
+            "b": "P. malariae",
+            "c": "P. ovale",
+            "d": " P. falciparum"
+        },
+        "12": {
+            "a": "L. filariasis",
+            "b": "JE ",
+            "c": "Kala-azar",
+            "d": "Malaria"
+        },
+        "13": {
+            "a": "Sewage",
+            "b": "sullage ",
+            "c": "both",
+            "d": "none "
+        },
+        "14": {
+            "a": "Mosquito ",
+            "b": "housefly",
+            "c": "sand-fly ",
+            "d": "blackfly "
+        },
+        "15": {
+            "a": "D=IP",
+            "b": "I=PD",
+            "c": "P=ID",
+            "d": "P=I/D"
+        },
+        "16": {
+            "a": "Point source epidemic",
+            "b": "repeated source epidemic",
+            "c": "propagated epidemic",
+            "d": "all of above"
+        },
+        "17": {
+            "a": "8",
+            "b": "9",
+            "c": "10",
+            "d": "11"
+        },
+        "18": {
+            "a": "60 kcal",
+            "b": "70 Kcal",
+            "c": "100 kcal",
+            "d": "80 kcal"
+        },
+        "19": {
+            "a": "Milk",
+            "b": "Meat ",
+            "c": "egg",
+            "d": "pulse "
+        },
+        "20": {
+            "a": "Low weight for age ",
+            "b": "low weight for height",
+            "c": " low height for age",
+            "d": "both a &b "
+        },
+        "21": {
+            "a": "Biochemical examinatio",
+            "b": " shakir tape",
+            "c": "anthropometry measurement",
+            "d": "BMI"
+        },
+        "22": {
+            "a": "Neonate ",
+            "b": "Infant ",
+            "c": "toddler",
+            "d": "pre school "
+        },
+        "23": {
+            "a": "Fat",
+            "b": "carbohydrate ",
+            "c": "protein",
+            "d": "vitamin & minerals"
+        },
+        "24": {
+            "a": "Carrot ",
+            "b": "Green leafy vegetable",
+            "c": "cod liver oil ",
+            "d": "papaya"
+        },
+        "25": {
+            "a": "Cyanocobalamin",
+            "b": "Tocopherol ",
+            "c": "phylloquinone",
+            "d": "riboflavin "
+        },
+        "26": {
+            "a": " Folic acid",
+            "b": "Iron ",
+            "c": "vitamin B-12",
+            "d": "both a &c "
+        },
+        "27": {
+            "a": "Lemon",
+            "b": "Amala ",
+            "c": "Milk ",
+            "d": "orange "
+        },
+        "28": {
+            "a": "Calcium",
+            "b": "carbohydrate ",
+            "c": "fat",
+            "d": "Iron "
+        },
+        "29": {
+            "a": "Semicircular canal",
+            "b": "cochlea",
+            "c": "Vestibule ",
+            "d": "utricle "
+        },
+        "30": {
+            "a": "Earache ",
+            "b": "discharge",
+            "c": "Tinnitus ",
+            "d": "hearing loss"
+        },
+        "31": {
+            "a": "Sebaceous gland",
+            "b": "ceruminous gland",
+            "c": "sweat gland",
+            "d": "apocrine gland"
+        },
+        "32": {
+            "a": "Earache ",
+            "b": "past history of discharge",
+            "c": "soft wax",
+            "d": "vegetable foreign baby in ear"
+        },
+        "33": {
+            "a": "Staphylococcus aureus",
+            "b": "Haemophilus influenzae",
+            "c": " Beta hemolytic streptococci",
+            "d": " streptococcus pneumoniae"
+        },
+        "34": {
+            "a": "Scarlet fever",
+            "b": "Diphtheria",
+            "c": "chickenpox",
+            "d": " measles"
+        },
+        "35": {
+            "a": "Inflammation of middle ear deft",
+            "b": "more common during URT",
+            "c": "more common after 7 years ",
+            "d": "pain is most dominant"
+        },
+        "36": {
+            "a": "CO ",
+            "b": "SO",
+            "c": "NO",
+            "d": "CO2"
+        },
+        "37": {
+            "a": "Shallow pit latrine",
+            "b": "Manure pits",
+            "c": "Burial method",
+            "d": " both a &c "
+        },
+        "38": {
+            "a": "Endemic ascites",
+            "b": "Epidemic ascites",
+            "c": "epidemic Jaundice",
+            "d": "epidemic dropsy"
+        },
+        "39": {
+            "a": "Field toxin",
+            "b": "storage toxin",
+            "c": "both",
+            "d": "None "
+        },
+        "40": {
+            "a": "Mustard oil",
+            "b": "sunflower oil",
+            "c": "argemone oi",
+            "d": "soya bean oil"
+        },
+        "41": {
+            "a": "20 districts",
+            "b": "25 terai districts",
+            "c": "20 mountain districts",
+            "d": "25 hill districts "
+        },
+        "42": {
+            "a": "Streptococcus ",
+            "b": "staphylococcus ",
+            "c": "pneumococcus",
+            "d": "all of above "
+        },
+        "43": {
+            "a": "Worm",
+            "b": "bacteria ",
+            "c": "protozoa",
+            "d": "fungi "
+        },
+        "44": {
+            "a": "Tinea capitis",
+            "b": "Tinea pedis",
+            "c": "Tinea cruris",
+            "d": "Tinea solium "
+        },
+        "45": {
+            "a": "During night",
+            "b": "office time",
+            "c": "Morning",
+            "d": "All of above"
+        },
+        "46": {
+            "a": "25%",
+            "b": "1%",
+            "c": "5% ",
+            "d": "10%"
+        },
+        "47": {
+            "a": "Herpes zoster",
+            "b": " Human herpes",
+            "c": "chickenpox",
+            "d": "both a &c"
+        },
+        "48": {
+            "a": "Atopic dermatitis",
+            "b": "contact dermatitis",
+            "c": "Seborrheic dermatitis",
+            "d": "Discoid dermatitis"
+        },
+        "49": {
+            "a": "Penicillin",
+            "b": "sulphonamide",
+            "c": "NSAID",
+            "d": "tetracycline"
+        },
+        "50": {
+            "a": "Air conduction",
+            "b": "bony conduction",
+            "c": "fluid conduction",
+            "d": "all of above"
+        }
+      
+
+
+    },
+    {
+        "1": "1 year",
+        "2": " APGAR score 0-3 at 5 min ",
+        "3": "20 breath per 30 second",
+        "4": "proportion",
+        "5": "proportion",
+        "6": "ecological study",
+        "7": "all of above ",
+        "8": "Rabies",
+        "9": "Aedes",
+        "10": "all of above",
+        "11": "P. malariae",
+        "12": "Malaria",
+        "13": "sullage ",
+        "14": "housefly",
+        "15": "P=ID",
+        "16": "Point source epidemic",
+        "17": "9",
+        "18": "70 Kcal",
+        "19": "egg",
+        "20": "low weight for height",
+        "21": "anthropometry measurement",
+        "22": "Infant ",
+        "23": "protein",
+        "24": "cod liver oil ",
+        "25": "Tocopherol ",
+        "26": "both a &c ",
+        "27": "Milk ",
+        "28": "Iron ",
+        "29": "cochlea",
+        "30": "Tinnitus ",
+        "31": "Sebaceous gland",
+        "32": "vegetable foreign baby in ear",
+        "33": "Haemophilus influenzae",
+        "34": "Diphtheria",
+        "35": "more common after 7 years ",
+        "36": "CO2",
+        "37": " both a &c ",
+        "38": "Endemic ascites",
+        "39": "storage toxin",
+        "40": "argemone oi",
+        "41": "25 hill districts ",
+        "42": "staphylococcus ",
+        "43": "fungi ",
+        "44": "Tinea solium ",
+        "45": "During night",
+        "46": "5% ",
+        "47": "both a &c",
+        "48": "Seborrheic dermatitis",
+        "49": "sulphonamide",
+        "50": "all of above"
+       
+
+    }
+]

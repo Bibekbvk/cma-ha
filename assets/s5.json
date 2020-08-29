@@ -1,0 +1,413 @@
+[
+    {
+        "1": "Which division/center is the focal point for health promotion activities of all departments? ?",
+        "2": "The best and effective community pparticipation and mobilization experienced during the implementation of National Health Program in Nepal is:?",
+        "3": "Which one is the recommended schedule for Anti-Rabies vaccine in Nepal? ?",
+        "4": "In an epidemic, first to be done is:?",
+        "5": "The main aim to Tuberculosis treatment is:?",
+        "6": "The main vector of dengue is:?",
+        "7": "Which one is responsible for Global warming??",
+        "8": "Which of the following is considered an adequate water supply/head/day:?",
+        "9": "On physical examination of ARI cases,we say present of fast breathing in a child less than 2 months when?",
+        "10": "Neonatal tetanus can be best prevented by giving:?",
+        "11": "The amount of glucose in ORS referred by WHO is:?",
+        "12": "Numerator in neonatal death rate includes infant up to:?",
+        "13": "Blood pressure is determined by:?",
+        "14": "Which of the following disease is not related to nervous system? ?",
+        "15": " Respiration per minute in a healthy man?",
+        "16": "Pyridoxin, pyridoxal & pyridoxamine are three forms of vitamin?",
+        "17": "What should not be done in case of shock??",
+        "18": "Anaphylatic reaction occur due to the:?",
+        "19": "Which of the following statements, if made by the parent of an 8 years old child undergoing treatment for impetigo, indicates and accurate for impetigo, indicates an accurate understanding of the treatment plan?",
+        "20": "Allergic dermatitis is chronic inflammation cause by.....",
+        "21": "Incontinence of urine through vagina is due to",
+        "22": "Where does brain is  situated? ",
+        "23": "Difficult in micturition during old age the most probable cause may be:",
+        "24": "What is the purpose of sterilization ofsurgical instruments & equipments?",
+        "25": "Blindness as defined by WHO is the visual acuity of less than ",
+        "26": "The another physiological name for jalbindu'",
+        "27": "Suicide tendency is high among the mental health patient",
+        "28": "What is the most important causes of periodontitis??",
+        "29": "Which one is not the method of Safe Abortion??",
+        "30": "Danger signs after delivery are:?",
+        "31": "The preterm baby refers to:?",
+        "32": "Menopause means...?",
+        "33": "When the Nepal Health service Act was caracted?",
+        "34": "Nepal Health Professional Council was established in ?",
+        "35": "Vehicle transmission is seen in:",
+        "36": "Millennium Development Goal of Nepal on U-5 Mortality Rate is:?",
+        "37": "Preventive strategies diseases include:?",
+        "38": "When Leprosy Elimination wad Decelerated in Nepal?",
+        "39": "Prevalence of HIV in Nepal is:",
+        "40": "Key strategies of national immunization programme to achieve and maintain at least 90% coverage vaccination are all, except: ?",
+        "41": "BCG vaccine provides....?",
+        "42": "Which is not an STD??",
+        "43": "National Health Policy 1991 includes:?",
+        "44": " Informing people, motivating people & guiding them into an action are the main - objectives of:?",
+        "45": "MOHP decided to implement free services to all citizens at SHP/HP, level in:?",
+        "46": "ASL and EOP terminology are used in?",
+        "47": "The best process for Local Health Governance strengthening program is:?",
+        "48": "The first step of planning is:?",
+        "49": "Which center under the ministry of health and population is responsible for Tobacco control Activities??",
+        "50": "Health posts are under:"
+    },
+    {
+        "1": {
+            "a": "NHTC",
+            "b": "NHEICC ",
+            "c": "PHCRD",
+            "d": "EDCD "
+        },
+        "2": {
+            "a": "National Immunization Program",
+            "b": "National Immunization Days and MDA in Filariasis control program & Vit a",
+            "c": "Regular Nutrition Program",
+            "d": "Health camps"
+        },
+        "3": {
+            "a": " 0,3, 7, 14 and 29 days",
+            "b": " 0, 5, 7, 15 and 28 days",
+            "c": " 0,3, 7, 14, and 28 days",
+            "d": "0, 7, 14, 21 and 28 days"
+        },
+        "4": {
+            "a": "Confirmation of existence of an epidemic",
+            "b": "Verification of diagnosis",
+            "c": "Prevent from complication",
+            "d": "Contact tracing"
+        },
+        "5": {
+            "a": "Bacteriological cure",
+            "b": "Radiological cure",
+            "c": "Prevent from complication ",
+            "d": "Contcat tracing"
+        },
+        "6": {
+            "a": "Culex ",
+            "b": "Aedes ",
+            "c": "Anopheles ",
+            "d": "None "
+        },
+        "7": {
+            "a": " Carbonmonoxide",
+            "b": "Oxygen ",
+            "c": "Carbondioxide",
+            "d": "Nitrogen "
+        },
+        "8": {
+            "a": "50 - 100 L",
+            "b": "150-200 L",
+            "c": "200-250 L",
+            "d": "100-150 L"
+        },
+        "9": {
+            "a": "60 breath/minute or more",
+            "b": "40 breath/minute",
+            "c": "30 breath/minute",
+            "d": "50 breath/minute "
+        },
+        "10": {
+            "a": " Toxoid to the mother",
+            "b": "Toxoid to the neonate",
+            "c": " Antibiotics",
+            "d": "Immunoglobulins"
+        },
+        "11": {
+            "a": "13.5 gms",
+            "b": "15.5 gms",
+            "c": "18.5 gms",
+            "d": "20 gms "
+        },
+        "12": {
+            "a": "14 days",
+            "b": "22 days",
+            "c": "28 days",
+            "d": " 30 days"
+        },
+        "13": {
+            "a": "Cardiac output* peripheral resistance",
+            "b": "Stock volume *peripheral resistance",
+            "c": "Increase age",
+            "d": "Strengthen of myocardia contraction "
+        },
+        "14": {
+            "a": "Encephalitis ",
+            "b": "Polia ",
+            "c": "Typhoid",
+            "d": "Parkinsonism"
+        },
+        "15": {
+            "a": "12",
+            "b": "18 ",
+            "c": "30",
+            "d": "40 "
+        },
+        "16": {
+            "a": "K",
+            "b": "E",
+            "c": "B6",
+            "d": "B12"
+        },
+        "17": {
+            "a": "Check ABC",
+            "b": "Prevent the body heat loss",
+            "c": "Raise the victim's leg 8-12 inches",
+            "d": "Keep the head injured patient on his back"
+        },
+        "18": {
+            "a": "Exposure of allergen ",
+            "b": "Exposure of extreme heat ",
+            "c": "Exposure of extreme cold",
+            "d": "Exposure of drugs"
+        },
+        "19": {
+            "a": "I have been draining the lesions as then developing",
+            "b": "I wash the lesions every day using a freshly laundered cloth",
+            "c": "I remind my child several times each day not to touch the lesions",
+            "d": "I keep the lesions covered with a gauze"
+        },
+        "20": {
+            "a": "Irritant",
+            "b": "Bacteria ",
+            "c": "Parasite ",
+            "d": "All of the above."
+        },
+        "21": {
+            "a": "Vesico-vaginal fistula",
+            "b": "Dysmenorrhea ",
+            "c": "Eclampsia ",
+            "d": "Pre-eclampsia "
+        },
+        "22": {
+            "a": "Thoracic cavity",
+            "b": "Cranial cavity",
+            "c": "Sacrum",
+            "d": "Coccyx "
+        },
+        "23": {
+            "a": "Circumcision ",
+            "b": "Prostate enlargement ",
+            "c": "Vasectomy",
+            "d": "Atrophy of tests"
+        },
+        "24": {
+            "a": "To make clean",
+            "b": "To prevent infection",
+            "c": " To make free from microorganism",
+            "d": "To make free from macro-organism"
+        },
+        "25": {
+            "a": "6/13",
+            "b": "6/24",
+            "c": "6/60",
+            "d": "3/60 "
+        },
+        "26": {
+            "a": "Trachoma",
+            "b": "Cataract ",
+            "c": "Squint",
+            "d": "Glaucoma "
+        },
+        "27": {
+            "a": "Hysteria",
+            "b": "Schizophrenia ",
+            "c": "Depression ",
+            "d": "Anxiety "
+        },
+        "28": {
+            "a": "Dental plaque",
+            "b": " Communicable diseases",
+            "c": " Inadequate vitamin intake",
+            "d": "Inadequate food supply"
+        },
+        "29": {
+            "a": "MA",
+            "b": "MVA ",
+            "c": "CEOC",
+            "d": "D & E"
+        },
+        "30": {
+            "a": "Fever and weakness",
+            "b": "Bleeding, high fever and convulsion",
+            "c": "Vaginal discharge and Headache",
+            "d": "Mild diarrhea and weakness"
+        },
+        "31": {
+            "a": "Born before 47 weeks ",
+            "b": "Born before 45 weeks",
+            "c": "Born before 40 weeks",
+            "d": "Born before 37 weeks"
+        },
+        "32": {
+            "a": "Beginning of menstruation",
+            "b": "Cessation of menstruation",
+            "c": "Excessive bleeding during menstruation",
+            "d": "Scanty blood flow during menstruation "
+        },
+        "33": {
+            "a": "2055 BS",
+            "b": "2054 BS",
+            "c": "2053 BS",
+            "d": "2051 BS"
+        },
+        "34": {
+            "a": "2052 BS",
+            "b": "2053 BS",
+            "c": "2054 BS",
+            "d": "2055 BS "
+        },
+        "35": {
+            "a": "Hepatitis A",
+            "b": "Rabies ",
+            "c": "Filaria",
+            "d": "Malaria "
+        },
+        "36": {
+            "a": "33/1000 live birth",
+            "b": "34/1000 live birth",
+            "c": "35/1000 live birth",
+            "d": "32/1000 live birth"
+        },
+        "37": {
+            "a": "Surveillance, disease screening and treatment",
+            "b": " Disease, diagnosis, prompt treatment and health education",
+            "c": "Sanitation, health education immunization and fly control ",
+            "d": " Health camp organization, treatment and referring the cases"
+        },
+        "38": {
+            "a": "20 Jan. 2008",
+            "b": "20 Jan. 2009",
+            "c": "20 Jan. 2010",
+            "d": "20 Jan 2011"
+        },
+        "39": {
+            "a": "0.5%",
+            "b": "0.3%",
+            "c": " 0.4%",
+            "d": "0.6%"
+        },
+        "40": {
+            "a": " Increase access and utilization to vaccination",
+            "b": " Enhance human resources capacity for vaccination",
+            "c": "Strengthen communication social mobilization and advocacy",
+            "d": "Strengthen district hospital"
+        },
+        "41": {
+            "a": "Natural active immunity",
+            "b": "Natural passive immunity",
+            "c": " Artificial active immunity",
+            "d": "Artificial passive immunity"
+        },
+        "42": {
+            "a": "Syphilis ",
+            "b": "Gonorrhoea ",
+            "c": "Breast cancer",
+            "d": "Lymphogranuloma"
+        },
+        "43": {
+            "a": "Preventive health services",
+            "b": "Curative health services",
+            "c": "Blood transfusion services",
+            "d": "all of the above"
+        },
+        "44": {
+            "a": "Communication ",
+            "b": "Preventive medicine ",
+            "c": "Blood transfusion services",
+            "d": "Health education "
+        },
+        "45": {
+            "a": "15th Jan 2007",
+            "b": "15th Jan 2008",
+            "c": "19th Sept. 2007",
+            "d": "19 Sept. 2008"
+        },
+        "46": {
+            "a": "HMIS reporting",
+            "b": "Reproductive health program",
+            "c": "Disaster management",
+            "d": "Logistic supply"
+        },
+        "47": {
+            "a": "Devolution",
+            "b": "Hand over",
+            "c": "Delegation of Authority to local health institutions",
+            "d": "Delegation of Authority to local Governance"
+        },
+        "48": {
+            "a": "Establishing objectives",
+            "b": "Analysis of the health situation",
+            "c": "Fixing priorities",
+            "d": "Resource mobilization "
+        },
+        "49": {
+            "a": "National Health Education Information and Communication Center",
+            "b": "National Health Training Centre ",
+            "c": "National Public Health Laboratory Center",
+            "d": "National Tuberculosis Center "
+        },
+        "50": {
+            "a": "Regional hospital",
+            "b": "Zonal hospital ",
+            "c": "District public health office",
+            "d": "District hospital"
+        }
+       
+        
+
+    },
+    {
+        "1": "NHEICC ",
+        "2": "National Immunization Days and MDA in Filariasis control program & Vit a",
+        "3": " 0,3, 7, 14, and 28 days",
+        "4": "Verification of diagnosis",
+        "5": "Bacteriological cure",
+        "6": "Aedes ",
+        "7": "Carbondioxide",
+        "8": "150-200 L",
+        "9": "60 breath/minute or more",
+        "10": " Toxoid to the mother",
+        "11": "13.5 gms",
+        "12": "28 days",
+        "13": "Cardiac output* peripheral resistance",
+        "14": "Typhoid",
+        "15": "18 ",
+        "16": "B6",
+        "17": "Keep the head injured patient on his back",
+        "18": "Exposure of allergen ",
+        "19": "I wash the lesions every day using a freshly laundered cloth?",
+        "20": "Irritant",
+        "21": "Dysmenorrhea ",
+        "22": "Cranial cavity",
+        "23": "Prostate enlargement ",
+        "24": " To make free from microorganism",
+        "25": "3/60 ",
+        "26": "Glaucoma ",
+        "27": "Depression ",
+        "28": "Dental plaque",
+        "29": "CEOC",
+        "30": "Bleeding, high fever and convulsion",
+        "31": "Born before 37 weeks",
+        "32": "Cessation of menstruation",
+        "33": "2053 BS",
+        "34": "2054 BS",
+        "35": "Hepatitis A",
+        "36": "32/1000 live birth",
+        "37": "Sanitation, health education immunization and fly control ",
+        "38": "20 Jan. 2009",
+        "39": "0.3%",
+        "40": "Strengthen district hospital",
+        "41": " Artificial active immunity",
+        "42": "Breast cancer",
+        "43": "all of the above",
+        "44": "Health education ",
+        "45": "15th Jan 2007",
+        "46": "Logistic supply",
+        "47": "Delegation of Authority to local Governance",
+        "48": "Analysis of the health situation",
+        "49": "National Health Education Information and Communication Center",
+        "50": "District public health office"
+       
+
+    }
+]

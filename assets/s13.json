@@ -1,0 +1,417 @@
+[
+    {
+        "1": "When DOTS plus program was initiated in Nepal??",
+        "2": "FCHV days celebrate on:?",
+        "3": "PHC/ORC program was initiated in Nepal in?",
+        "4": "In a epidemic, first to be done is:?",
+        "5": "Disease outbreak means:?",
+        "6": "Which of the following disease is the state of elimination recently??",
+        "7": "Choose the importance of health indicators:?",
+        "8": "Liquid waste consists of waste water and human excreta is called?",
+        "9": "What is the best method for hospital waste management??",
+        "10": "Why even water is not necessary for infant if breast feed exclusively??",
+        "11": "Which is not the major causes of neonatal death in Nepal??",
+        "12": "Pentavalent vaccine consists of all the following vaccine except?",
+        "13": "Which one of the followiny is associated with Kwashiorkor??",
+        "14": "Systematic examination include except?",
+        "15": "In what part of body appendix is lies?",
+        "16": "Diagnosis of Pulmonary tuberculosis best confirmed by?",
+        "17": "What factor makes blood red??",
+        "18": "If you feel like fainting, you will:?",
+        "19": "Vasovagal syndrome is associated with one of the following shock.?",
+        "20": "Which one is not the disease of skin??",
+        "21": "Causative organism of scabies is:?",
+        "22": "Following are the types of bleeding except:?",
+        "23": "which is not the case of acute abdomen??",
+        "24": "Sterilization is defined as:?",
+        "25": "When blood comes from urine you say??",
+        "26": "Inflammation of eyelid is called as:?",
+        "27": "What are the mode of transmission of influenza??",
+        "28": "Which is the best technique of prevention of dental carries??",
+        "29": "Elimination of leprosy in Nepal means:?",
+        "30": "Withdrawl symptoms of tobacco include except?",
+        "31": "Breast feeding should be started:",
+        "32": "All are risk factors for cervical cancer except:?",
+        "33": "The most sensitive indicator of obstetrics and gynecology service is: ?",
+        "34": "When was Nepal Health Service Act, third time edited? ?",
+        "35": "How many members are working in the board of Nepal Health Professional Council Act, 2053??",
+        "36": "The route of infection in diarrhea is:?",
+        "37": "All are the true statement about the complication of sexually transmitted infections (STI) except:?",
+        "38": "Which method does not count in modern family planning method??",
+        "39": "What is the current maternal mortality ratio of Nepal? (According to MMMS 2008/09)??",
+        "40": "Skill birth attendance includes:?",
+        "41": "The constant occurrence of disease in a certain area is called?",
+        "42": "Campaign method of health education is?",
+        "43": "Which one of the exposure has highest efficiency of transmission of AIDS??",
+        "44": "IMCI stands for:?",
+        "45": "Which age groups are mainly affected by Japaneses encephalitis? ?",
+        "46": "All are the true statement of about community diagnosis except:?",
+        "47": "Method of data processing as:?",
+        "48": "District Health strengthening system means: ?",
+        "49": "Filariasis is caused by:",
+        "50": "Informing people, motivating people and changing behavior is the objective"
+        
+
+        },  
+    {
+        "1": {
+            "a": "Sept. 2010",
+            "b": "Sept. 2005",
+            "c": "Sept. 2006",
+            "d": "Sept. 2007"
+        },
+        "2": {
+            "a": "30 January",
+            "b": "1 January",
+            "c": "1 October",
+            "d": "15 October"
+        },
+        "3": {
+            "a": "2058",
+            "b": "2045",
+            "c": "2047",
+            "d": "2051"
+        },
+        "4": {
+            "a": "Evaluation of ecological factors ",
+            "b": "Confirmation of existence of an epidemic",
+            "c": " Verification of diagnosis",
+            "d": "Identify the risk population"
+        },
+        "5": {
+            "a": "Occurrence of an illness in any excess in surveillance within one year",
+            "b": "The occurrence of an illness in community within one year.",
+            "c": "The occurrence of an illness in anul geographical area within short period of time.",
+            "d": "The occurrence of an illness in any community or region clearly in excess of expectancy within short period of time"
+        },
+        "6": {
+            "a": "Rubella",
+            "b": "Hepatitis",
+            "c": "Measles",
+            "d": "Polio"
+        },
+        "7": {
+            "a": "To reflect changes in health over time span",
+            "b": "To diagnose community needs and perception",
+            "c": "To project future",
+            "d": " All of the above"
+        },
+        "8": {
+            "a": "Night soil",
+            "b": "Sullage",
+            "c": "Sewage",
+            "d": "Suspended solid"
+        },
+        "9": {
+            "a": " Chemical de-composition",
+            "b": "Dumping",
+            "c": "Burial",
+            "d": "Incineration"
+        },
+        "10": {
+            "a": " Infants do not fell thirsty",
+            "b": " It is difficult to digest ",
+            "c": " it dilutes breast milk",
+            "d": "Breast milk contains more than 85% of water"
+        },
+        "11": {
+            "a": "infection",
+            "b": "Pre term baby",
+            "c": "Hyperthermia",
+            "d": "Birth asphyxia"
+        },
+        "12": {
+            "a": "Hepatitis vaccine",
+            "b": "Hemophilus influenza type b",
+            "c": ". DPT vaccine",
+            "d": "Yellow fever vaccine"
+        },
+        "13": {
+            "a": "Flag sign",
+            "b": "Flanky paint dermatosis",
+            "c": "Syndrome of displaced child",
+            "d": "Mental alertness"
+        },
+        "14": {
+            "a": "History taking",
+            "b": "Inspection",
+            "c": "Percussion",
+            "d": "Auscultation "
+        },
+        "15": {
+            "a": "Left iliac Fossa",
+            "b": "Rt. Hypocondrium",
+            "c": "Lt. Hypocondrium",
+            "d": "Right lilac Fossa"
+        },
+        "16": {
+            "a": " Blood examination",
+            "b": "Sputum examination",
+            "c": "X-ray",
+            "d": "Tuberculin testing"
+        },
+        "17": {
+            "a": "Hb",
+            "b": "Fibriogen ",
+            "c": "Platelets ",
+            "d": "W.B.C."
+        },
+        "18": {
+            "a": "Take medicine",
+            "b": " Run away toward hospital",
+            "c": "Take cold or hot water",
+            "d": "Lie down on the floor or sit with your head between your knee"
+        },
+        "19": {
+            "a": "Hypovolmic ",
+            "b": "Cardiogenic ",
+            "c": "Neurogenic ",
+            "d": "Anaphylatic "
+        },
+        "20": {
+            "a": "Psoriasis ",
+            "b": "Acne vulgarism",
+            "c": "Eczema",
+            "d": "Injury "
+        },
+        "21": {
+            "a": "Streptococci ",
+            "b": "Pediculous ",
+            "c": "Sarcoptes scabies",
+            "d": "Tinea cruris"
+        },
+        "22": {
+            "a": "Capillary",
+            "b": "Arterial ",
+            "c": "Venous",
+            "d": "Bony "
+        },
+        "23": {
+            "a": "Acute respiratory infection",
+            "b": "Acute appendicitis",
+            "c": "Acute peritonitis",
+            "d": "Salphingitis"
+        },
+        "24": {
+            "a": " Process of making dressing room clean",
+            "b": "Process of destroying micro organism",
+            "c": "Process by which articles are made germ free including spore",
+            "d": "All of the above"
+        },
+        "25": {
+            "a": "Nephritis ",
+            "b": "Urinary tract infection",
+            "c": "haematuria",
+            "d": "Uremia"
+        },
+        "26": {
+            "a": "Chalazion ",
+            "b": "Eyeliditis ",
+            "c": "Stye",
+            "d": "Blepharitis "
+        },
+        "27": {
+            "a": "Droplet infection ",
+            "b": "Using contaminated articles",
+            "c": "Direct contact",
+            "d": "All of the above"
+        },
+        "28": {
+            "a": "Extraction ",
+            "b": "Hygienic food habit",
+            "c": "Proper oral hygiene",
+            "d": "Regular check up"
+        },
+        "29": {
+            "a": "Leprosy prevalence rate less than 10 per, 1,00,000 population",
+            "b": "Leprosy prevalence rate less than 5 per 10,000 population.",
+            "c": "Leprosy prevalence rate less than 1 per 1,00,000 population",
+            "d": "Leprosy prevalence rate less than 1 per 10,000 population"
+        },
+        "30": {
+            "a": "Irritability",
+            "b": "Tremor ",
+            "c": "Smoking",
+            "d": "Anxiety "
+        },
+        "31": {
+            "a": "Immediately after birth",
+            "b": "24 hour after birth",
+            "c": "6 hour after birth",
+            "d": "12 hour after birth "
+        },
+        "32": {
+            "a": "Nulliparity ",
+            "b": "Prostitution ",
+            "c": "Multiparity",
+            "d": "Poor hygiene"
+        },
+        "33": {
+            "a": "Net reproduction rate",
+            "b": "Infant mortality rate",
+            "c": "Perinatal mortality rate",
+            "d": " Crude death rate"
+        },
+        "34": {
+            "a": "2058/7/22",
+            "b": "2063/4/22",
+            "c": "2063/8/22",
+            "d": "2063/12/22 "
+        },
+        "35": {
+            "a": "11",
+            "b": "10",
+            "c": "13",
+            "d": "15"
+        },
+        "36": {
+            "a": "Fecal to oral ",
+            "b": "Skin contact",
+            "c": "Inhalation",
+            "d": "Oral to fecal"
+        },
+        "37": {
+            "a": "Eractile dysfunction",
+            "b": "Abortion or still birth",
+            "c": "Genital organ's problems",
+            "d": " Sterility"
+        },
+        "38": {
+            "a": " Breast feeding",
+            "b": "Condom ",
+            "c": "Pills",
+            "d": "Depo Provera"
+        },
+        "39": {
+            "a": "134/100000 live birth",
+            "b": "536/100000 live birth",
+            "c": " 281/100000 live birth",
+            "d": "229/100000 live birth"
+        },
+        "40": {
+            "a": "ANMs",
+            "b": "Medical doctors",
+            "c": "Staff nurse",
+            "d": "All of the above"
+        },
+        "41": {
+            "a": "Sporadic",
+            "b": "Epidemic ",
+            "c": "Endemic",
+            "d": "Pandemic "
+        },
+        "42": {
+            "a": "Mass method",
+            "b": "Individual method",
+            "c": "Group Method",
+            "d": "None of the above"
+        },
+        "43": {
+            "a": "Contaminated blood transfusion",
+            "b": "Intravenous drug uses",
+            "c": "Sexual intercourse",
+            "d": " Infected mother to child "
+        },
+        "44": {
+            "a": "Integrated Management of Childhood Illness",
+            "b": "Integrated Management of Clinical Investigation",
+            "c": " Integrated Management of Child Investment",
+            "d": "Integrated Management of Chronic Illness"
+        },
+        "45": {
+            "a": ">15 yrs",
+            "b": "<1yrs",
+            "c": "1-5 yrs",
+            "d": "1-15 yrs"
+        },
+        "46": {
+            "a": "Treatment of disease",
+            "b": "Described community",
+            "c": "Pattern of disease",
+            "d": "Influencing factors that causes disease"
+        },
+        "47": {
+            "a": "Analysis-coding-editing-tabulation",
+            "b": " Coding-tabulation-editing-analysis ",
+            "c": " Editing-tabulation-coding-analysis",
+            "d": "Editing-coding-tabulation-analysis interpretation"
+        },
+        "48": {
+            "a": "To make the health system door to door of people.",
+            "b": "To make the health system more strong and popular than before.",
+            "c": "To make the integrated health system more effective and accessible to the people.",
+            "d": "To make the integrated health system free of cost."
+        },
+        "49": {
+            "a": "mosquito ",
+            "b": "nematode",
+            "c": "Fly",
+            "d": "Bees"
+        },
+        "50": {
+            "a": "community diagnosis",
+            "b": "Health education",
+            "c": "preventive measure",
+            "d": "socialized medicine"
+        }
+
+
+        
+        
+
+    },
+    {
+        "1": "Sept. 2005",
+        "2": "1 October",
+        "3": "2051",
+        "4": " Verification of diagnosis",
+        "5": "The occurrence of an illness in any community or region clearly in excess of expectancy within short period of time",
+        "6": "Measles",
+        "7": " All of the above",
+        "8": "Sewage",
+        "9": "Incineration",
+        "10": "Breast milk contains more than 85% of water",
+        "11": "Hyperthermia",
+        "12": "Yellow fever vaccine",
+        "13": "Mental alertness",
+        "14": "History taking",
+        "15": "Right lilac Fossa",
+        "16": "Sputum examination",
+        "17": "Hb",
+        "18": "Lie down on the floor or sit with your head between your knee",
+        "19": "Neurogenic ",
+        "20": "Injury ",
+        "21": "Sarcoptes scabies",
+        "22": "Bony ",
+        "23": "Acute respiratory infection",
+        "24": "Process by which articles are made germ free including spore",
+        "25": "haematuria",
+        "26": "Blephritis ",
+        "27": "Droplet infection ",
+        "28": "Proper oral hygiene",
+        "29": "Leprosy prevalence rate less than 1 per 10,000 population",
+        "30": "Tremor ",
+        "31": "Immediately after birth",
+        "32": "Nulliparity ",
+        "33": "Perinatal mortality rate",
+        "34": "2063/8/22",
+        "35": "13",
+        "36": "Fecal to oral ",
+        "37": "Eractile dysfunction",
+        "38": " Breast feeding",
+        "39": "229/100000 live birth",
+        "40": "All of the above",
+        "41": "Endemic",
+        "42": "Mass method",
+        "43": "Contaminated blood transfusion",
+        "44": "Integrated Management of Childhood Illness",
+        "45": "1-15 yrs",
+        "46": "Treatment of disease",
+        "47": "Editing-coding-tabulation-analysis interpretation",
+        "48": "To make the integrated health system more effective and accessible to the people.",
+        "49": "nematode",
+        "50": "Health education"
+      
+
+    }
+]

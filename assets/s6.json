@@ -1,0 +1,420 @@
+[
+    {
+        "1": "What is the current neonatal mortality,rate of Nepal??",
+        "2": "An infant is able to sit without support at the age of?",
+        "3": "What is most commonly seen in children due to worm infestation??",
+        "4": "The most common site of cancer among females worldwide is?",
+        "5": "Persistence of microorganism or their toxin in the blood causes ....?",
+        "6": "One pint of blood is equals to?",
+        "7": " The most common poisoning in Nepal is?",
+        "8": "The percentage of burn is calculated by?",
+        "9": "How often do you give breaths to adult on mouth to mouth breathing??",
+        "10": "Which is not infectious skin problem? ?",
+        "11": "What is the incubation period of scabies?",
+        "12": "Most common cause of bleeding per rectum in men between 20-40 years of age is?",
+        "13": "How is the Transillumination sing in hydrocele??",
+        "14": "Which is the best way of sterilization of instrument?",
+        "15": "Rupture of ligament is called .......?",
+        "16": "Most common complication of tropical steroid use in eye is ",
+        "17": "Which of the following is not the preventive measure of trachoma??",
+        "18": "Which vitamin's deficiency causes Gum bleeding??",
+        "19": "What is consequences of periodontitis??",
+        "20": "Most common side effect of intra uterine contraceptive device is?",
+        "21": "Still birth rate includes?",
+        "22": " What is the normal weight of baby at birth",
+        "23": "The normal position of uterus is?",
+        "24": "When Nepal health service act started?",
+        "25": "To whom tobacco shopkeeper should not sale tobacco according to tobacco control and regulation act 2068?",
+        "26": "Which is not the main objective of family planning program??",
+        "27": "The slogan of World health day-2013 is?",
+        "28": "What is the target % of pregnant women attending at least four Ante natal visits by 2015?",
+        "29": "What is the target of reducing maternal mortality rate by 2015?",
+        "30": " World AIDS day observed on the day:?",
+        "31": "Which test should be done for confirmation of HIV infection?",
+        "32": "What is the period of second long term health plan SLTHP??",
+        "33": "Health education belongs to ..?",
+        "34": "Which is the first public health program in Nepal??",
+        "35": " The current status of the percentage of delivery assisted by SBA in Nepal.?",
+        "36": "What is the full form of HMIS??",
+        "37": "HMIS-25 is related to .....?",
+        "38": "Which of the following is the top ten health problem as % of total population reported in HMIS during FY 2068/69?",
+        "39": "Which is the best method for skill development??",
+        "40": "When was Primary health care revitalization division estd in DOHS Nepal?",
+        "41": "Which service is not Provided PHC/ORC??",
+        "42": "Which is the communication method for community and district level??",
+        "43": " When was started the FCHV program??",
+        "44": "The continuous scrutiny of the factor that determines the occurrence and distribution of disease is:?",
+        "45": "Tuberculin test is read after.......?",
+        "46": "What is the HIV virus group??",
+        "47": "Following diseases are viral diseases except?",
+        "48": "The latrine of choice for camps of short duration is?",
+        "49": "Which of following test is done for milk pasteurization??",
+        "50": "Which of following is the first indicator for protein energy malnutrition??"
+    },
+    {
+        "1": {
+            "a": "46/1000 live birth ",
+            "b": "33/1000 live birth",
+            "c": "33/100000 live birth",
+            "d": "none of above"
+        },
+        "2": {
+            "a": "5 months",
+            "b": "6 months",
+            "c": "7 months",
+            "d": "8 months"
+        },
+        "3": {
+            "a": "Vitamin A deficiency",
+            "b": "iodine deficiency",
+            "c": " Iron deficiency anaemia",
+            "d": "vitamin C deficienc"
+        },
+        "4": {
+            "a": "Cervix",
+            "b": "lungs ",
+            "c": "Breast",
+            "d": "oral "
+        },
+        "5": {
+            "a": "Hypovolemic shock",
+            "b": "anaphylactic shock",
+            "c": "Septic shock",
+            "d": ". Bacterial shock "
+        },
+        "6": {
+            "a": "450ml",
+            "b": "480 ml",
+            "c": "750 ml",
+            "d": "600 ml"
+        },
+        "7": {
+            "a": "carbon monoxide",
+            "b": "Organophosphorus",
+            "c": "Kerosene",
+            "d": "Paracetamol"
+        },
+        "8": {
+            "a": "Rule of 5",
+            "b": "rule of 9 ",
+            "c": "rule of 20",
+            "d": "rule of 50"
+        },
+        "9": {
+            "a": "Once every second",
+            "b": "once every 3 second",
+            "c": "Once every 9 second",
+            "d": "once every 5 second"
+        },
+        "10": {
+            "a": "Scabies",
+            "b": "boils ",
+            "c": "Eczema",
+            "d": "Skin ulcer"
+        },
+        "11": {
+            "a": "1-2 weeks",
+            "b": "2-6 weeks",
+            "c": "5-8 weeks",
+            "d": "7-9 weeks"
+        },
+        "12": {
+            "a": "Anal fissure",
+            "b": " internal hemorrhoids",
+            "c": " Rectal polyp",
+            "d": "rectal carcinoma"
+        },
+        "13": {
+            "a": "Absent",
+            "b": "negative ",
+            "c": "Positive ",
+            "d": "rarely positive"
+        },
+        "14": {
+            "a": "Boiling",
+            "b": "Autoclave",
+            "c": "Washing with soap and water",
+            "d": "none of above"
+        },
+        "15": {
+            "a": "Strain ",
+            "b": "Sprain",
+            "c": "Dislocation ",
+            "d": "subluxation "
+        },
+        "16": {
+            "a": "Iritis",
+            "b": "ptosis ",
+            "c": "Cataract ",
+            "d": "glaucoma "
+        },
+        "17": {
+            "a": " Health education on personal hygiene",
+            "b": "case detection and treatment",
+            "c": "Isolation of infected persons",
+            "d": "improve basic sanitation"
+        },
+        "18": {
+            "a": "Vitamin A",
+            "b": "Vitamin b",
+            "c": "Vitamin c",
+            "d": "Vitamin d"
+        },
+        "19": {
+            "a": "Dental caries",
+            "b": "Mobility of teeth",
+            "c": "Foul smelling",
+            "d": "fever "
+        },
+        "20": {
+            "a": "Heart burn",
+            "b": "nausea and vomiting",
+            "c": " Weight gain",
+            "d": "bleeding from vagina"
+        },
+        "21": {
+            "a": " Babies death after 32 weeks of gestation",
+            "b": "Babies death atter 28 weeks of gestation",
+            "c": "Babies death after 20 weeks of gestation",
+            "d": "Babies death after 24 weeks of gestation"
+        },
+        "22": {
+            "a": "2.5 kg",
+            "b": "3.5 kg",
+            "c": " 4 kg",
+            "d": " 5-6 kg"
+        },
+        "23": {
+            "a": "Ante flexion & Ante version",
+            "b": " Ante flection & retroversion ",
+            "c": " Retroversion & ante version",
+            "d": "retroversion & retroflection"
+        },
+        "24": {
+            "a": "2055",
+            "b": "2052 ",
+            "c": "2056",
+            "d": "2053 "
+        },
+        "25": {
+            "a": "Pregnant women",
+            "b": "under 18 year's person",
+            "c": " A+B",
+            "d": " under 25 year's person "
+        },
+        "26": {
+            "a": "Prevent unwanted pregnancies ",
+            "b": "spacing their children",
+            "c": "Reducing fertility rates",
+            "d": " improve their overall reproductive health"
+        },
+        "27": {
+            "a": " Blood pressure-take control",
+            "b": "Prevent blood pressure: be healthy",
+            "c": "Be aware of global warming",
+            "d": "Stop tobacca: be healthy"
+        },
+        "28": {
+            "a": "75%",
+            "b": " 80%",
+            "c": "85%",
+            "d": "90%"
+        },
+        "29": {
+            "a": "134/100000 live births.",
+            "b": "150/100000 live births",
+            "c": "200/100000 live births.",
+            "d": "250/100000 live births."
+        },
+        "30": {
+            "a": "Sept. 7th",
+            "b": "Nov. 5th",
+            "c": "Dec 1",
+            "d": "Mar. 8th "
+        },
+        "31": {
+            "a": "ELISA Test",
+            "b": " VDRL Test",
+            "c": "Western blot test",
+            "d": "Blood culture"
+        },
+        "32": {
+            "a": "1997-2017",
+            "b": "1990-2003",
+            "c": "2001-2019",
+            "d": "2015-2030 "
+        },
+        "33": {
+            "a": "Disease prevention",
+            "b": "Awareness",
+            "c": "Public health",
+            "d": "Health promotion."
+        },
+        "34": {
+            "a": "Leprosy control program",
+            "b": "Malaria eradication program",
+            "c": "Tuberculosis control program",
+            "d": "safe motherhood program "
+        },
+        "35": {
+            "a": "36%",
+            "b": "60%",
+            "c": " 40%",
+            "d": "none of above Source:"
+        },
+        "36": {
+            "a": "Health make up including symptoms",
+            "b": "Health management information system",
+            "c": "Nepal's interest on health system",
+            "d": "Health management in taking symptoms"
+        },
+        "37": {
+            "a": "Tally sheet",
+            "b": "Referral slip",
+            "c": "FCHV register",
+            "d": " OPD register"
+        },
+        "38": {
+            "a": "Gastritis APD",
+            "b": " amoebic dysentery",
+            "c": " Intestinal worms",
+            "d": "skin diseases"
+        },
+        "39": {
+            "a": "Role playing ",
+            "b": "Demonstration",
+            "c": "Group discussion",
+            "d": "brain storming"
+        },
+        "40": {
+            "a": "2007",
+            "b": "2009 ",
+            "c": "2011",
+            "d": "2013 "
+        },
+        "41": {
+            "a": "Growth monitoring under 5 years",
+            "b": "Iron distribution",
+            "c": "Delivery service",
+            "d": "Monitoring of continuous planning users"
+        },
+        "42": {
+            "a": "Interview",
+            "b": "exhibition ",
+            "c": "Counselling ",
+            "d": "all of above"
+        },
+        "43": {
+            "a": "2044/45",
+            "b": "2045/46",
+            "c": "2046/47",
+            "d": "2047/48"
+        },
+        "44": {
+            "a": "Surveillance",
+            "b": "screening",
+            "c": "Diagnosis ",
+            "d": "detection "
+        },
+
+        "45": {
+            "a": "24 hours",
+            "b": "36 hours",
+            "c": "48 hours",
+            "d": "72 hours"
+        },
+
+        "46": {
+            "a": "DNA virus",
+            "b": "RNA virus",
+            "c": "Both A&B",
+            "d": "none of above"
+        },
+
+        "47": {
+            "a": "Rabies",
+            "b": "polio ",
+            "c": "Syphilis",
+            "d": "AIDS "
+        },
+
+        "48": {
+            "a": "Aqua privy",
+            "b": " trench hole",
+            "c": "Pit latrine",
+            "d": "chemical closet"
+        },
+
+        "49": {
+            "a": "Turbidity test",
+            "b": "Phosphate test",
+            "c": "Nitric acid lest",
+            "d": "Salnotch test"
+        },
+
+        "50": {
+            "a": " Underweight for age",
+            "b": "under height for age",
+            "c": "Underweight for height",
+            "d": "decreases arm circumference"
+        }
+
+       
+
+
+    },
+    {
+        "1": "33/1000 live birth",
+        "2": "8 months",
+        "3": " Iron deficiency anaemia",
+        "4": "Breast",
+        "5": "Septic shock",
+        "6": "480 ml",
+        "7": "Organophosphorus",
+        "8": "rule of 9 ",
+        "9": "once every 5 second",
+        "10": "Eczema",
+        "11": "2-6 weeks",
+        "12": " internal hemorrhoids",
+        "13": "Positive ",
+        "14": "Autoclave",
+        "15": "Sprain",
+        "16": "glaucoma ",
+        "17": "Isolation of infected persons",
+        "18": "Vitamin c",
+        "19": "Mobility of teeth",
+        "20": "bleeding from vagina",
+        "21": "Babies death atter 28 weeks of gestation",
+        "22": "2.5 kg",
+        "23": "Ante flexion & Ante version",
+        "24": "2053 ",
+        "25": " A+B",
+        "26": "Reducing fertility rates",
+        "27": "Prevent blood pressure: be healthy",
+        "28": " 80%",
+        "29": "134/100000 live births.",
+        "30": "Dec 1",
+        "31": "Western blot test",
+        "32": "1997-2017",
+        "33": "Health promotion.",
+        "34": "Malaria eradication program",
+        "35": "36%",
+        "36": "Health management information system",
+        "37": "FCHV register",
+        "38": "Gastritis APD",
+        "39": "Demonstration",
+        "40": "2009 ",
+        "41": "Delivery service",
+        "42": "all of above",
+        "43": "2045/46",
+        "44": "Surveillance",
+        "45": "72 hours",
+        "46": "RNA virus",
+        "47": "Syphilis",
+        "48": " trench hole",
+        "49": "Phosphate test",
+        "50": " Underweight for age"
+       
+
+    }
+]

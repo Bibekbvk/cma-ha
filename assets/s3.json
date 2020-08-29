@@ -1,0 +1,411 @@
+[
+    {
+        "1": "Which is the main function of child health clinic??",
+        "2": "Death occurring within 4 weeks of birth are called:",
+        "3": "Pentavalent vaccine for childhood immunization does not include: ?",
+        "4": "Infection acquired in hospital is called:?",
+        "5": "Two systems that control all body activities are the nervous and ..............systems. ?",
+        "6": " There are ......... quadrants in breast for explaining any lesion.?",
+        "7": "The probable complains of meningitis is?",
+        "8": "After dog bite, the dog should observed for:?",
+        "9": "All snake bites should be managed except by?",
+        "10": "The commonest cause of boils furuncle is?",
+        "11": "How seabies disease communicated from  one person to another person??",
+        "12": "Burger's disease intermittent claudication is caused by?",
+        "13": "You encountered a victim with fracture leg & bleeding from fracture site. What do you do before transporting to the nearest hospital??",
+        "14": "Management of inflammation includes all except:?",
+        "15": "Which is not the complication of wound??",
+        "16": "Deviated nasal septum (DNS) can cause symptoms like except:?",
+        "17": "Amblyopia is also known as:?",
+        "18": "Which equipment is required for an oral hygiene??",
+        "19": "About what percentage of population might be affected by mental disorder in their life time??",
+        "20": "If a women should absolutely not get pregnant because of her medical reasons, her first choice of contraceptive should be:?",
+        "21": "Which of the following program of Nepal is most cost effective and successful health intervention??",
+        "22": "AIDS is caused by:?",
+        "23": " The full form of IDD is:?",
+        "24": " 24. All the following are included in IMCI except:?",
+        "25": "Which species of mosquito transfers Japanese encephalitis??",
+        "26": "Who is planner in the district hospital??",
+        "27": "Management includes all except:?",
+        "28": "LMIS means: ?",
+        "29": "Elements of primary health care:?",
+        "30": "One primary health care centre covers:?",
+        "31": "What is not a part of external genitalia??",
+        "32": "What is the function of the ovary??",
+        "33": "Gram -ve diplococcic found in a vaginal smicar are presumed to be:?",
+        "34": "When was the health service act implemented in Nepal??",
+        "35": "The latest change in the health act of 2053 was done in the year BS?",
+        "36": "Which is not the objective of family planning program? ?",
+        "37": "Which of the following is not among four rules of domestic treatment of diarrhoea for under five children??",
+        "38": "BCG vaccine should be given:?",
+        "39": "The abbreviation BCC means:?",
+        "40": "Which of following is not concerned with health education as per WHO??",
+        "41": "Function of a district public health office DPHO. basically does not includes:?",
+        "42": "What is the number of session to be conducted by each local health facility in primary health care outreach clinic??",
+        "43": "When was the female community health volunteer program started??",
+        "44": "Which is not a zoonotic disease?",
+        "45": "The following disease is common in the rural areas:?",
+        "46": "Which of following is not the management of epidemic??",
+        "47": "Total number of cases at the given point of in a given population is: ?",
+        "48": "Purest water in nature is from:?",
+        "49": "Which of the following is the best latrine? ?",
+        "50": "Physiological jaundice in neonates appears after:?"
+    },
+    {
+        "1": {
+            "a": "Immunization ",
+            "b": "health education",
+            "c": " family planning",
+            "d": "all of above"
+        },
+        "2": {
+            "a": "Neonatal mortality",
+            "b": " perinatal mortality",
+            "c": " postnatal mortality",
+            "d": " infant mortality"
+        },
+        "3": {
+            "a": "Hepatitis B",
+            "b": "diptheria ",
+            "c": "Haemophilus influenza type b",
+            "d": "Japanese encephalitis"
+        },
+        "4": {
+            "a": "Water borne",
+            "b": "contagious ",
+            "c": "opportunistic",
+            "d": "nosocomial "
+        },
+        "5": {
+            "a": "Circulatory ",
+            "b": "exocrinc ",
+            "c": "endocrine",
+            "d": "muscular "
+        },
+        "6": {
+            "a": "4",
+            "b": "3",
+            "c": "5",
+            "d": "6"
+        },
+        "7": {
+            "a": "Fever",
+            "b": "headache ",
+            "c": "vomiting",
+            "d": "all of above"
+        },
+        "8": {
+            "a": "5-10 days",
+            "b": "15-20 days",
+            "c": "10-14 days",
+            "d": "20-30 days"
+        },
+        "9": {
+            "a": "Cleaning the wound",
+            "b": "observation",
+            "c": "inj, tetanus toxoid",
+            "d": "plastering"
+        },
+        "10": {
+            "a": "Staphylococcus ",
+            "b": "streptococcus ",
+            "c": "gonococcus",
+            "d": "fungi "
+        },
+        "11": {
+            "a": "by air ",
+            "b": " from noise",
+            "c": "from water",
+            "d": " personal contact"
+        },
+        "12": {
+            "a": "Venous occlusion",
+            "b": "arterial insufficiency",
+            "c": "neural compression",
+            "d": "muscular dystrophy"
+        },
+        "13": {
+            "a": "Apply splint",
+            "b": "clear wound",
+            "c": "apply pressure bandage",
+            "d": " all of above"
+        },
+        "14": {
+            "a": "Rest",
+            "b": "analgesics ",
+            "c": "antibiotics ",
+            "d": "antihypertensive "
+        },
+        "15": {
+            "a": "Bleeding",
+            "b": "deformity ",
+            "c": "pain",
+            "d": "shock"
+        },
+        "16": {
+            "a": "Nasal obstruction",
+            "b": "sinusitis",
+            "c": "epistaxis",
+            "d": "glaucoma"
+        },
+        "17": {
+            "a": "Buffalo's eye",
+            "b": "humps eye",
+            "c": "lazy eye",
+            "d": "squint eye"
+        },
+        "18": {
+            "a": "Tooth paste ",
+            "b": "brush",
+            "c": "soap",
+            "d": "both a &b"
+        },
+        "19": {
+            "a": "5",
+            "b": "10",
+            "c": "25",
+            "d": "20"
+        },
+        "20": {
+            "a": "Condom ",
+            "b": "pills ",
+            "c": "voluntary surgical contraception",
+            "d": " IUD"
+        },
+        "21": {
+            "a": "family planning",
+            "b": "malaria control",
+            "c": "EPI",
+            "d": "DOTS "
+        },
+        "22": {
+            "a": "Retro virus",
+            "b": "Reno virus",
+            "c": "arbo virus",
+            "d": "papo virus"
+        },
+        "23": {
+            "a": "Immune deficiency disorder",
+            "b": "iron deficiency disorder",
+            "c": "iodine deficiency disorder",
+            "d": " all of above "
+        },
+        "24": {
+            "a": "Malaria",
+            "b": "malnutrition ",
+            "c": "tuberculosis ",
+            "d": "ARI "
+        },
+        "25": {
+            "a": "Anopheles ",
+            "b": "cerlicine ",
+            "c": "Culex",
+            "d": "none "
+        },
+        "26": {
+            "a": "ANM",
+            "b": "CMA ",
+            "c": "doctor",
+            "d": "PHO/staff nurse"
+        },
+        "27": {
+            "a": "Planning",
+            "b": "implementation ",
+            "c": "financing ",
+            "d": "evaluation "
+        },
+        "28": {
+            "a": " Logistics management information system",
+            "b": "Ledger management & information service",
+            "c": "Loading management internal service",
+            "d": " Logistics manpower inventory system"
+        },
+        "29": {
+            "a": "Provision of essential drugs",
+            "b": "promotion of food supply proper nutrition",
+            "c": "Immunization against infectious disease",
+            "d": "all of above"
+        },
+        "30": {
+            "a": "1 VDC",
+            "b": "5 VDC",
+            "c": "1 electoral area",
+            "d": "1 district"
+        },
+        "31": {
+            "a": "Clitoris",
+            "b": "uterus ",
+            "c": "labia majora",
+            "d": "labia minora"
+        },
+        "32": {
+            "a": "Ova and sperm production ",
+            "b": "ova and hormone production",
+            "c": "enzyme and sperm production",
+            "d": "insulin production"
+        },
+        "33": {
+            "a": "Gonococci ",
+            "b": "meningococci ",
+            "c": "pneumococci",
+            "d": "treponema pallidum"
+        },
+        "34": {
+            "a": "2053/2/18 BS",
+            "b": "2053/11/15 BS",
+            "c": "2054/2/18 BS",
+            "d": "2054/11/15 BS"
+        },
+        "35": {
+            "a": "2066",
+            "b": "2067 ",
+            "c": "2068",
+            "d": "2069 "
+        },
+        "36": {
+            "a": "Prevent unwanted pregnancies",
+            "b": "Promotic family planning services",
+            "c": "Limit children",
+            "d": "Improve overall reproductive health"
+        },
+        "37": {
+            "a": "give the liquid dict frequently",
+            "b": "give the child zinc tab for 10 days",
+            "c": "give cotrim antibiotic",
+            "d": "consult nearest health facility in care of seriousness of child"
+        },
+        "38": {
+            "a": "Intravenous I/V",
+            "b": "intramuscular IM",
+            "c": "sub-cutaneous S/C",
+            "d": " intra dermal I/D."
+        },
+        "39": {
+            "a": "Before Christ century",
+            "b": "bacilli Calamette courie",
+            "c": "Behavior change communication",
+            "d": " behavior and community change "
+        },
+        "40": {
+            "a": "Change in knowledge of the people",
+            "b": "hange in attitude of the people",
+            "c": " Changes in informed choice of the people ",
+            "d": "changes in feeling & behavior of the people"
+        },
+        "41": {
+            "a": "Promotive services",
+            "b": "preventive services",
+            "c": "rehabilitative services",
+            "d": "curative services"
+        },
+        "42": {
+            "a": " 1-2 session pcr VDC",
+            "b": "2-3 session per VDC",
+            "c": "2-5 session per VDC",
+            "d": "3-5 session per VDC"
+        },
+        "43": {
+            "a": "F.Y. 2044/45 BS",
+            "b": "F. Y. 2045/46 BS",
+            "c": "F. Y. 2046/47 BS",
+            "d": ".F.Y. 2047/48 BS"
+        },
+        "44": {
+            "a": "Rabies ",
+            "b": "fever",
+            "c": "anthrax ",
+            "d": "brucellosis "
+        },
+        "45": {
+            "a": "Chronic bronchitis",
+            "b": "lung cancer",
+            "c": "zoonotic disease",
+            "d": "drug dependence"
+        },
+        "46": {
+            "a": "Treating the cases",
+            "b": " Preventing the further spread of disease",
+            "c": "Monitoring the effect of control measures",
+            "d": "Supervision of the affected area"
+        },
+        "47": {
+            "a": "Incidence",
+            "b": "prevalence",
+            "c": "epidemiology",
+            "d": "attack rate"
+        },
+        "48": {
+            "a": "Lakes",
+            "b": "rain ",
+            "c": "springs",
+            "d": "ponds "
+        },
+        "49": {
+            "a": "Bucket latrine",
+            "b": "borehole latrine",
+            "c": "dug well latrine",
+            "d": " water seal latrine "
+        },
+        "50": {
+            "a": " 2 hours of birth ",
+            "b": "12 hours of birth",
+            "c": "24 hours of birth",
+            "d": " 72 hours of birth"
+        }
+        
+        
+    },
+    {
+        "1": "all of above",
+        "2": "Neonatal mortality",
+        "3": "Japanese encephalitis",
+        "4": "nosocomial ",
+        "5": "endocrine",
+        "6": "4",
+        "7": "all of above",
+        "8": "10-14 days",
+        "9": "plastering",
+        "10": "Staphylococcus ",
+        "11": " personal contact",
+        "12": "arterial insufficiency",
+        "13": " all of above",
+        "14": "antihypertensive ",
+        "15": "pain",
+        "16": "glaucoma",
+        "17": "lazy eye",
+        "18": "both a &b",
+        "19": "25",
+        "20": "Condom ",
+        "21": "EPI",
+        "22": "Retro virus",
+        "23": "iodine deficiency disorder",
+        "24": "tuberculosis ",
+        "25": "Culex",
+        "26": "doctor",
+        "27": "financing ",
+        "28": " Logistics management information system",
+        "29": "all of above",
+        "30": "1 electoral area",
+        "31": "labia majora",
+        "32": "ova and hormone production",
+        "33": "Gonococci ",
+        "34": "2053/11/15 BS",
+        "35": "2069 ",
+        "36": "Limit children",
+        "37": "give cotrim antibiotic",
+        "38": " intra dermal I/D.",
+        "39": "Behavior change communication",
+        "40": " Changes in informed choice of the people ",
+        "41": "rehabilitative services",
+        "42": "2-5 session per VDC",
+        "43": "F. Y. 2045/46 BS",
+        "44": "anthrax ",
+        "45": "zoonotic disease",
+        "46": "Supervision of the affected area",
+        "47": "prevalence",
+        "48": "rain ",
+        "49": " water seal latrine ",
+        "50": "24 hours of birth"
+        
+    }
+]
